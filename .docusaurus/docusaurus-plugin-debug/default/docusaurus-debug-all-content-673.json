@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/spacetech-companies/docs",
-          "tagsPath": "/spacetech-companies/docs/tags",
+          "versionPath": "/spacetech_companies/docs",
+          "tagsPath": "/spacetech_companies/docs/tags",
           "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
@@ -17,9 +17,13 @@
           "sidebarFilePath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
           "contentPath": "/home/okuma/docusaurus/spacetech_companies/docs",
           "contentPathLocalized": "/home/okuma/docusaurus/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "mainDocId": "companies",
           "sidebars": {
             "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "companies"
+              },
               {
                 "type": "doc",
                 "id": "intro"
@@ -76,16 +80,16 @@
           },
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
+              "unversionedId": "companies",
+              "id": "companies",
               "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "title": "Spacetech companies",
+              "description": "------",
+              "source": "@site/docs/companies.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/spacetech-companies/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "slug": "/companies",
+              "permalink": "/spacetech_companies/docs/companies",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/companies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -94,8 +98,35 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
+                "title": "Tutorial Intro",
+                "permalink": "/spacetech_companies/docs/intro"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/spacetech_companies/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spacetech companies",
+                "permalink": "/spacetech_companies/docs/companies"
+              },
+              "next": {
                 "title": "Create a Page",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-page"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-page"
               }
             },
             {
@@ -107,7 +138,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/spacetech-companies/docs/tutorial-basics/congratulations",
+              "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
@@ -118,11 +149,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Manage Docs Versions",
-                "permalink": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -134,7 +165,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
@@ -145,11 +176,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-document"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/markdown-features"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -161,7 +192,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-document",
+              "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-document",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
@@ -172,11 +203,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-page"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -188,7 +219,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-page",
+              "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-page",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
@@ -199,11 +230,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial Intro",
-                "permalink": "/spacetech-companies/docs/intro"
+                "permalink": "/spacetech_companies/docs/intro"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-document"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -215,7 +246,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/spacetech-companies/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
@@ -226,11 +257,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/markdown-features"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/congratulations"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -242,7 +273,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/spacetech-companies/docs/tutorial-basics/markdown-features",
+              "permalink": "/spacetech_companies/docs/tutorial-basics/markdown-features",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
@@ -253,11 +284,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -269,7 +300,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
@@ -280,11 +311,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Congratulations!",
-                "permalink": "/spacetech-companies/docs/tutorial-basics/congratulations"
+                "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/spacetech-companies/docs/tutorial-extras/translate-your-site"
+                "permalink": "/spacetech_companies/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -296,7 +327,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/spacetech-companies/docs/tutorial-extras/translate-your-site",
+              "permalink": "/spacetech_companies/docs/tutorial-extras/translate-your-site",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
@@ -307,7 +338,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ]
@@ -322,7 +353,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/spacetech-companies/blog/welcome",
+            "permalink": "/spacetech_companies/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -332,15 +363,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/spacetech-companies/blog/tags/facebook"
+                "permalink": "/spacetech_companies/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/spacetech-companies/blog/tags/hello"
+                "permalink": "/spacetech_companies/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/spacetech-companies/blog/tags/docusaurus"
+                "permalink": "/spacetech_companies/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -363,14 +394,14 @@
             ],
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/spacetech-companies/blog/mdx-blog-post"
+              "permalink": "/spacetech_companies/blog/mdx-blog-post"
             }
           }
         },
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/spacetech-companies/blog/mdx-blog-post",
+            "permalink": "/spacetech_companies/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -380,7 +411,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/spacetech-companies/blog/tags/docusaurus"
+                "permalink": "/spacetech_companies/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -396,18 +427,18 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/spacetech-companies/blog/welcome"
+              "permalink": "/spacetech_companies/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/spacetech-companies/blog/long-blog-post"
+              "permalink": "/spacetech_companies/blog/long-blog-post"
             }
           }
         },
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/spacetech-companies/blog/long-blog-post",
+            "permalink": "/spacetech_companies/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -417,11 +448,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/spacetech-companies/blog/tags/hello"
+                "permalink": "/spacetech_companies/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/spacetech-companies/blog/tags/docusaurus"
+                "permalink": "/spacetech_companies/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -437,18 +468,18 @@
             ],
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/spacetech-companies/blog/mdx-blog-post"
+              "permalink": "/spacetech_companies/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/spacetech-companies/blog/first-blog-post"
+              "permalink": "/spacetech_companies/blog/first-blog-post"
             }
           }
         },
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/spacetech-companies/blog/first-blog-post",
+            "permalink": "/spacetech_companies/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -458,11 +489,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/spacetech-companies/blog/tags/hola"
+                "permalink": "/spacetech_companies/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/spacetech-companies/blog/tags/docusaurus"
+                "permalink": "/spacetech_companies/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -478,7 +509,7 @@
             ],
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/spacetech-companies/blog/long-blog-post"
+              "permalink": "/spacetech_companies/blog/long-blog-post"
             }
           }
         }
@@ -486,7 +517,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/spacetech-companies/blog",
+            "permalink": "/spacetech_companies/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -505,22 +536,22 @@
         }
       ],
       "blogTags": {
-        "/spacetech-companies/blog/tags/facebook": {
+        "/spacetech_companies/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/spacetech-companies/blog/tags/facebook"
+          "permalink": "/spacetech_companies/blog/tags/facebook"
         },
-        "/spacetech-companies/blog/tags/hello": {
+        "/spacetech_companies/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/spacetech-companies/blog/tags/hello"
+          "permalink": "/spacetech_companies/blog/tags/hello"
         },
-        "/spacetech-companies/blog/tags/docusaurus": {
+        "/spacetech_companies/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -528,29 +559,29 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/spacetech-companies/blog/tags/docusaurus"
+          "permalink": "/spacetech_companies/blog/tags/docusaurus"
         },
-        "/spacetech-companies/blog/tags/hola": {
+        "/spacetech_companies/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/spacetech-companies/blog/tags/hola"
+          "permalink": "/spacetech_companies/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/spacetech-companies/blog/tags"
+      "blogTagsListPath": "/spacetech_companies/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/spacetech-companies/",
+        "permalink": "/spacetech_companies/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/spacetech-companies/markdown-page",
+        "permalink": "/spacetech_companies/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

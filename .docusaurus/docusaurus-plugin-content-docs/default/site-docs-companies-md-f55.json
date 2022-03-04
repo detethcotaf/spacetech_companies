@@ -1,0 +1,23 @@
+{
+  "unversionedId": "companies",
+  "id": "companies",
+  "isDocsHomePage": false,
+  "title": "Spacetech companies",
+  "description": "------",
+  "source": "@site/docs/companies.md",
+  "sourceDirName": ".",
+  "slug": "/companies",
+  "permalink": "/spacetech_companies/docs/companies",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/companies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/spacetech_companies/docs/intro"
+  }
+}

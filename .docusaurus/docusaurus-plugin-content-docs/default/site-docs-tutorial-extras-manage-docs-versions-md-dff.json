@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/spacetech-companies/docs/tutorial-basics/congratulations"
+    "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/spacetech-companies/docs/tutorial-extras/translate-your-site"
+    "permalink": "/spacetech_companies/docs/tutorial-extras/translate-your-site"
   }
 }

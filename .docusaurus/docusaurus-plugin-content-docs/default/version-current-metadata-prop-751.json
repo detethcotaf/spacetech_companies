@@ -10,8 +10,13 @@
     "tutorialSidebar": [
       {
         "type": "link",
+        "label": "Spacetech companies",
+        "href": "/spacetech_companies/docs/companies"
+      },
+      {
+        "type": "link",
         "label": "Tutorial Intro",
-        "href": "/spacetech-companies/docs/intro"
+        "href": "/spacetech_companies/docs/intro"
       },
       {
         "type": "category",
@@ -20,32 +25,32 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/spacetech-companies/docs/tutorial-basics/create-a-page"
+            "href": "/spacetech_companies/docs/tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/spacetech-companies/docs/tutorial-basics/create-a-document"
+            "href": "/spacetech_companies/docs/tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/spacetech-companies/docs/tutorial-basics/create-a-blog-post"
+            "href": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/spacetech-companies/docs/tutorial-basics/markdown-features"
+            "href": "/spacetech_companies/docs/tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/spacetech-companies/docs/tutorial-basics/deploy-your-site"
+            "href": "/spacetech_companies/docs/tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/spacetech-companies/docs/tutorial-basics/congratulations"
+            "href": "/spacetech_companies/docs/tutorial-basics/congratulations"
           }
         ],
         "collapsed": true,
@@ -58,12 +63,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions"
+            "href": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/spacetech-companies/docs/tutorial-extras/translate-your-site"
+            "href": "/spacetech_companies/docs/tutorial-extras/translate-your-site"
           }
         ],
         "collapsed": true,

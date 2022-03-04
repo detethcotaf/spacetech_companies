@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/translate-your-site.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/translate-your-site",
-  "permalink": "/spacetech-companies/docs/tutorial-extras/translate-your-site",
+  "permalink": "/spacetech_companies/docs/tutorial-extras/translate-your-site",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions"
+    "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
   }
 }

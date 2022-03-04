@@ -1,154 +1,180 @@
 {
-  "/spacetech-companies/-d56": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+  "/spacetech_companies/-25e": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---spacetech-companies-5-e-9-93e"
   },
-  "/spacetech-companies/blog-783": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+  "/spacetech_companies/__docusaurus/debug-fd5": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/spacetech_companies/__docusaurus/debug/config-4b6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/spacetech_companies/__docusaurus/debug/content-55b": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---spacetech-companies-docusaurus-debug-content-246-86c"
+  },
+  "/spacetech_companies/__docusaurus/debug/globalData-0bc": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/spacetech_companies/__docusaurus/debug/metadata-16a": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/spacetech_companies/__docusaurus/debug/registry-6a5": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/spacetech_companies/__docusaurus/debug/routes-856": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/spacetech_companies/blog-50e": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---spacetech-companies-blog-766-063"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---spacetech-companies-blogf-4-f-da9"
       },
       {
-        "content": "8717b14a"
+        "content": "content---spacetech-companies-blog-871-7af"
       },
       {
-        "content": "925b3f96"
+        "content": "content---spacetech-companies-blog-925-b50"
       }
     ],
-    "metadata": "a9327fd6"
+    "metadata": "metadata---spacetech-companies-blogb-47-a36"
   },
-  "/spacetech-companies/blog/archive-6c3": {
-    "component": "9e4087bc",
-    "archive": "762ff733"
+  "/spacetech_companies/blog/archive-c23": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---spacetech-companies-blog-archive-26-e-066"
   },
-  "/spacetech-companies/blog/first-blog-post-7d6": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+  "/spacetech_companies/blog/first-blog-post-d70": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
+    "content": "content---spacetech-companies-blog-first-blog-poste-27-918"
   },
-  "/spacetech-companies/blog/long-blog-post-faf": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "73664a40"
+  "/spacetech_companies/blog/long-blog-post-8bb": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
+    "content": "content---spacetech-companies-blog-long-blog-post-736-05a"
   },
-  "/spacetech-companies/blog/mdx-blog-post-ffe": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "59362658"
+  "/spacetech_companies/blog/mdx-blog-post-c38": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
+    "content": "content---spacetech-companies-blog-mdx-blog-post-593-423"
   },
-  "/spacetech-companies/blog/tags-26a": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "1e445e03"
+  "/spacetech_companies/blog/tags-446": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
+    "tags": "tags---spacetech-companies-blog-tags-8-c-9-af8"
   },
-  "/spacetech-companies/blog/tags/docusaurus-e28": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/spacetech_companies/blog/tags/docusaurus-44a": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---spacetech-companies-blog-766-063"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---spacetech-companies-blogf-4-f-da9"
       },
       {
-        "content": "8717b14a"
+        "content": "content---spacetech-companies-blog-871-7af"
       },
       {
-        "content": "925b3f96"
+        "content": "content---spacetech-companies-blog-925-b50"
       }
     ],
-    "metadata": "1476ade9"
+    "metadata": "metadata---spacetech-companies-blog-tags-docusaurus-6-b-6-d21"
   },
-  "/spacetech-companies/blog/tags/facebook-bc5": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/spacetech_companies/blog/tags/facebook-4b8": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---spacetech-companies-blog-766-063"
       }
     ],
-    "metadata": "7358b829"
+    "metadata": "metadata---spacetech-companies-blog-tags-facebook-637-282"
   },
-  "/spacetech-companies/blog/tags/hello-ff3": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/spacetech_companies/blog/tags/hello-373": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---spacetech-companies-blog-766-063"
       },
       {
-        "content": "8717b14a"
+        "content": "content---spacetech-companies-blog-871-7af"
       }
     ],
-    "metadata": "e7374526"
+    "metadata": "metadata---spacetech-companies-blog-tags-hello-20-c-396"
   },
-  "/spacetech-companies/blog/tags/hola-729": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/spacetech_companies/blog/tags/hola-55b": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---spacetech-companies-blog-925-b50"
       }
     ],
-    "metadata": "15103a7f"
+    "metadata": "metadata---spacetech-companies-blog-tags-hola-0-fc-151"
   },
-  "/spacetech-companies/blog/welcome-de7": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+  "/spacetech_companies/blog/welcome-e6a": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
+    "content": "content---spacetech-companies-blog-welcomed-9-f-426"
   },
-  "/spacetech-companies/docs/tags-db0": {
-    "component": "3720c009",
-    "tags": "55960ee5"
+  "/spacetech_companies/docs/tags-15e": {
+    "component": "component---theme-doc-tags-list-page-372-89e",
+    "tags": "tags---spacetech-companies-docs-tags-559-4a0"
   },
-  "/spacetech-companies/markdown-page-606": {
-    "component": "1f391b9e",
-    "content": "393be207"
+  "/spacetech_companies/markdown-page-0e7": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---spacetech-companies-markdown-page-393-4ce"
   },
-  "/spacetech-companies/docs-968": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/spacetech_companies/docs-bf3": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---spacetech-companies-docs-935-999"
   },
-  "/spacetech-companies/docs/intro-9be": {
-    "component": "17896441",
-    "content": "0e384e19"
+  "/spacetech_companies/docs/companies-d34": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-companiesf-55-8cc"
   },
-  "/spacetech-companies/docs/tutorial-basics/congratulations-a61": {
-    "component": "17896441",
-    "content": "822bd8ab"
+  "/spacetech_companies/docs/intro-ba2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-intro-0-e-3-268"
   },
-  "/spacetech-companies/docs/tutorial-basics/create-a-blog-post-50b": {
-    "component": "17896441",
-    "content": "533a09ca"
+  "/spacetech_companies/docs/tutorial-basics/congratulations-c03": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-basics-congratulations-822-75a"
   },
-  "/spacetech-companies/docs/tutorial-basics/create-a-document-10d": {
-    "component": "17896441",
-    "content": "1e4232ab"
+  "/spacetech_companies/docs/tutorial-basics/create-a-blog-post-622": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-basics-create-a-blog-post-533-0c9"
   },
-  "/spacetech-companies/docs/tutorial-basics/create-a-page-77c": {
-    "component": "17896441",
-    "content": "5c868d36"
+  "/spacetech_companies/docs/tutorial-basics/create-a-document-2a4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-basics-create-a-document-1-e-4-4e9"
   },
-  "/spacetech-companies/docs/tutorial-basics/deploy-your-site-76c": {
-    "component": "17896441",
-    "content": "f55d3e7a"
+  "/spacetech_companies/docs/tutorial-basics/create-a-page-078": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-basics-create-a-page-5-c-8-667"
   },
-  "/spacetech-companies/docs/tutorial-basics/markdown-features-00d": {
-    "component": "17896441",
-    "content": "18c41134"
+  "/spacetech_companies/docs/tutorial-basics/deploy-your-site-8d8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-basics-deploy-your-sitef-55-178"
   },
-  "/spacetech-companies/docs/tutorial-extras/manage-docs-versions-caa": {
-    "component": "17896441",
-    "content": "dff1c289"
+  "/spacetech_companies/docs/tutorial-basics/markdown-features-2e9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-basics-markdown-features-18-c-dc5"
   },
-  "/spacetech-companies/docs/tutorial-extras/translate-your-site-200": {
-    "component": "17896441",
-    "content": "e44a2883"
+  "/spacetech_companies/docs/tutorial-extras/manage-docs-versions-f35": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-extras-manage-docs-versionsdff-7a9"
+  },
+  "/spacetech_companies/docs/tutorial-extras/translate-your-site-22e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-tutorial-extras-translate-your-sitee-44-c52"
   }
 }

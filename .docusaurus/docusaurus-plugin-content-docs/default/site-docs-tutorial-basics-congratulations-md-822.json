@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/spacetech-companies/docs/tutorial-basics/congratulations",
+  "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/spacetech-companies/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/spacetech-companies/docs/tutorial-extras/manage-docs-versions"
+    "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
   }
 }
