@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-18.04
     defaults:
       run:
-        working-directory: website
+        working-directory: ./
 
     steps:
     - uses: actions/checkout@v2
