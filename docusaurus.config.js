@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/detethcotaf/spacetech_companies/',
+          editUrl: 'https://github.com/detethcotaf/spacetech_companies/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/detethcotaf/spacetech_companies/',
+            'https://github.com/detethcotaf/spacetech_companies/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
