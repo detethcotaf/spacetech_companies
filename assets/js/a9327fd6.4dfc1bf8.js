@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspacetech_companies=self.webpackChunkspacetech_companies||[]).push([[558],{2487:function(e){e.exports=JSON.parse('{"permalink":"/spacetech-companies/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
