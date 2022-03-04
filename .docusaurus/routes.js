@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/spacetech_companies/docs',
-    component: ComponentCreator('/spacetech_companies/docs','bf3'),
+    component: ComponentCreator('/spacetech_companies/docs','98b'),
     routes: [
       {
         path: '/spacetech_companies/docs/companies',
@@ -119,56 +119,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/intro',
-        component: ComponentCreator('/spacetech_companies/docs/intro','ba2'),
+        path: '/spacetech_companies/docs/home',
+        component: ComponentCreator('/spacetech_companies/docs/home','50c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-basics/congratulations','c03'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-basics/create-a-blog-post','622'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-basics/create-a-document','2a4'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-basics/create-a-page','078'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-basics/deploy-your-site','8d8'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-basics/markdown-features','2e9'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-extras/manage-docs-versions','f35'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/spacetech_companies/docs/tutorial-extras/translate-your-site','22e'),
+        path: '/spacetech_companies/docs/nasa_earthdata',
+        component: ComponentCreator('/spacetech_companies/docs/nasa_earthdata','887'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

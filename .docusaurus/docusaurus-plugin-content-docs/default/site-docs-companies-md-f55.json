@@ -8,16 +8,20 @@
   "sourceDirName": ".",
   "slug": "/companies",
   "permalink": "/spacetech_companies/docs/companies",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/companies.md",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/companies.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/spacetech_companies/docs/home"
+  },
   "next": {
-    "title": "Tutorial Intro",
-    "permalink": "/spacetech_companies/docs/intro"
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/nasa_earthdata"
   }
 }

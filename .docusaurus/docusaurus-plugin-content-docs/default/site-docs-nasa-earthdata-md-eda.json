@@ -1,0 +1,23 @@
+{
+  "unversionedId": "nasa_earthdata",
+  "id": "nasa_earthdata",
+  "isDocsHomePage": false,
+  "title": "NASA Earthdata",
+  "description": "公式ページ",
+  "source": "@site/docs/nasa_earthdata.md",
+  "sourceDirName": ".",
+  "slug": "/nasa_earthdata",
+  "permalink": "/spacetech_companies/docs/nasa_earthdata",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/nasa_earthdata.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/companies"
+  }
+}

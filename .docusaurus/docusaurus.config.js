@@ -14,11 +14,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
+          "editUrl": "https://github.com/detethcotaf/spacetech_companies/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
+          "editUrl": "https://github.com/detethcotaf/spacetech_companies/"
         },
         "theme": {
           "customCss": "/home/okuma/docusaurus/spacetech_companies/src/css/custom.css"
@@ -28,7 +28,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "SpaceDB",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -36,9 +36,9 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "home",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "to": "/blog",
@@ -46,7 +46,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/detethcotaf",
           "label": "GitHub",
           "position": "right"
         }
@@ -60,8 +60,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Docs",
+              "to": "/docs/home"
             }
           ]
         },
@@ -69,16 +69,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/shun25533233"
             }
           ]
         },
@@ -91,7 +83,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/detethcotaf/"
             }
           ]
         }

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "isDocsHomePage": false,
+  "title": "Home",
+  "description": "",
+  "source": "@site/docs/home.md",
+  "sourceDirName": ".",
+  "slug": "/home",
+  "permalink": "/spacetech_companies/docs/home",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/home.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "home",
+    "title": "Home",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/companies"
+  }
+}

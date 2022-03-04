@@ -133,7 +133,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---spacetech-companies-markdown-page-393-4ce"
   },
-  "/spacetech_companies/docs-bf3": {
+  "/spacetech_companies/docs-98b": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---spacetech-companies-docs-935-999"
   },
@@ -141,40 +141,12 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---spacetech-companies-docs-companiesf-55-8cc"
   },
-  "/spacetech_companies/docs/intro-ba2": {
+  "/spacetech_companies/docs/home-50c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-intro-0-e-3-268"
+    "content": "content---spacetech-companies-docs-home-3-d-9-0c4"
   },
-  "/spacetech_companies/docs/tutorial-basics/congratulations-c03": {
+  "/spacetech_companies/docs/nasa_earthdata-887": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-basics-congratulations-822-75a"
-  },
-  "/spacetech_companies/docs/tutorial-basics/create-a-blog-post-622": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-basics-create-a-blog-post-533-0c9"
-  },
-  "/spacetech_companies/docs/tutorial-basics/create-a-document-2a4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-basics-create-a-document-1-e-4-4e9"
-  },
-  "/spacetech_companies/docs/tutorial-basics/create-a-page-078": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-basics-create-a-page-5-c-8-667"
-  },
-  "/spacetech_companies/docs/tutorial-basics/deploy-your-site-8d8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-basics-deploy-your-sitef-55-178"
-  },
-  "/spacetech_companies/docs/tutorial-basics/markdown-features-2e9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-basics-markdown-features-18-c-dc5"
-  },
-  "/spacetech_companies/docs/tutorial-extras/manage-docs-versions-f35": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-extras-manage-docs-versionsdff-7a9"
-  },
-  "/spacetech_companies/docs/tutorial-extras/translate-your-site-22e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-tutorial-extras-translate-your-sitee-44-c52"
+    "content": "content---spacetech-companies-docs-nasa-earthdataeda-31c"
   }
 }

@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/spacetech_companies/docs",
-          "mainDocId": "companies",
+          "mainDocId": "home",
           "docs": [
             {
               "id": "companies",
@@ -16,48 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/spacetech_companies/docs/intro",
+              "id": "home",
+              "path": "/spacetech_companies/docs/home",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/spacetech_companies/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/spacetech_companies/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/spacetech_companies/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/spacetech_companies/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/spacetech_companies/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/spacetech_companies/docs/tutorial-extras/translate-your-site",
+              "id": "nasa_earthdata",
+              "path": "/spacetech_companies/docs/nasa_earthdata",
               "sidebar": "tutorialSidebar"
             }
           ]

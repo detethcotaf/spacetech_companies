@@ -7,8 +7,8 @@
           "versionLabel": "Next",
           "versionPath": "/spacetech_companies/docs",
           "tagsPath": "/spacetech_companies/docs/tags",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/detethcotaf/spacetech_companies/docs",
+          "versionEditUrlLocalized": "https://github.com/detethcotaf/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -17,64 +17,20 @@
           "sidebarFilePath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
           "contentPath": "/home/okuma/docusaurus/spacetech_companies/docs",
           "contentPathLocalized": "/home/okuma/docusaurus/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "companies",
+          "mainDocId": "home",
           "sidebars": {
             "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "home"
+              },
               {
                 "type": "doc",
                 "id": "companies"
               },
               {
                 "type": "doc",
-                "id": "intro"
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Basics",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                "id": "nasa_earthdata"
               }
             ]
           },
@@ -89,30 +45,7 @@
               "sourceDirName": ".",
               "slug": "/companies",
               "permalink": "/spacetech_companies/docs/companies",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/companies.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Tutorial Intro",
-                "permalink": "/spacetech_companies/docs/intro"
-              }
-            },
-            {
-              "unversionedId": "intro",
-              "id": "intro",
-              "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/spacetech_companies/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/companies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -121,52 +54,50 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Spacetech companies",
-                "permalink": "/spacetech_companies/docs/companies"
+                "title": "Home",
+                "permalink": "/spacetech_companies/docs/home"
               },
               "next": {
-                "title": "Create a Page",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-page"
+                "title": "NASA Earthdata",
+                "permalink": "/spacetech_companies/docs/nasa_earthdata"
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
+              "unversionedId": "home",
+              "id": "home",
               "isDocsHomePage": false,
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
+              "title": "Home",
+              "description": "",
+              "source": "@site/docs/home.md",
+              "sourceDirName": ".",
+              "slug": "/home",
+              "permalink": "/spacetech_companies/docs/home",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/home.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 6
+                "id": "home",
+                "title": "Home",
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site"
-              },
               "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
+                "title": "Spacetech companies",
+                "permalink": "/spacetech_companies/docs/companies"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
+              "unversionedId": "nasa_earthdata",
+              "id": "nasa_earthdata",
               "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
+              "title": "NASA Earthdata",
+              "description": "公式ページ",
+              "source": "@site/docs/nasa_earthdata.md",
+              "sourceDirName": ".",
+              "slug": "/nasa_earthdata",
+              "permalink": "/spacetech_companies/docs/nasa_earthdata",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/nasa_earthdata.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -175,170 +106,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "isDocsHomePage": false,
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-document",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "isDocsHomePage": false,
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-page",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/spacetech_companies/docs/intro"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "isDocsHomePage": false,
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/spacetech_companies/docs/tutorial-basics/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "isDocsHomePage": false,
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/spacetech_companies/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/spacetech_companies/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "isDocsHomePage": false,
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/spacetech_companies/docs/tutorial-extras/translate-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/spacetech_companies/docs/tutorial-extras/manage-docs-versions"
+                "title": "Spacetech companies",
+                "permalink": "/spacetech_companies/docs/companies"
               }
             }
           ]
@@ -354,7 +123,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/spacetech_companies/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -402,7 +171,7 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/spacetech_companies/blog/mdx-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -439,7 +208,7 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/spacetech_companies/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -480,7 +249,7 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/spacetech_companies/blog/first-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
