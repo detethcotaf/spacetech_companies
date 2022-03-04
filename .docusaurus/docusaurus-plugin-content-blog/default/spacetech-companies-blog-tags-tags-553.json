@@ -1,0 +1,30 @@
+{
+  "/spacetech-companies/blog/tags/facebook": {
+    "allTagsPath": "/spacetech-companies/blog/tags",
+    "slug": "/spacetech-companies/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/spacetech-companies/blog/tags/facebook"
+  },
+  "/spacetech-companies/blog/tags/hello": {
+    "allTagsPath": "/spacetech-companies/blog/tags",
+    "slug": "/spacetech-companies/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/spacetech-companies/blog/tags/hello"
+  },
+  "/spacetech-companies/blog/tags/docusaurus": {
+    "allTagsPath": "/spacetech-companies/blog/tags",
+    "slug": "/spacetech-companies/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/spacetech-companies/blog/tags/docusaurus"
+  },
+  "/spacetech-companies/blog/tags/hola": {
+    "allTagsPath": "/spacetech-companies/blog/tags",
+    "slug": "/spacetech-companies/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/spacetech-companies/blog/tags/hola"
+  }
+}

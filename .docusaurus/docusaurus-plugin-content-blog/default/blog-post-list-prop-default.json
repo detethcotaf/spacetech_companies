@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/spacetech-companies/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/spacetech-companies/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/spacetech-companies/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/spacetech-companies/blog/first-blog-post"
+    }
+  ]
+}
