@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspacetech_companies=self.webpackChunkspacetech_companies||[]).push([[693],{9696:function(a){a.exports=JSON.parse('{"allTagsPath":"/spacetech_companies/blog/tags","slug":"/spacetech_companies/blog/tags/hola","name":"hola","count":1,"permalink":"/spacetech_companies/blog/tags/hola"}')}}]);
