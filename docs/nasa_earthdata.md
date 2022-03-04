@@ -33,7 +33,7 @@ Earth Science Data Systemsの略称。NASAのプログラム。科学的利益�
 	
 		EOSDISの地球科学研究へ応用できるようにするために、GIS技術をもっと使っていこうと推進するチーム
 
-	- [IMPACT]((https://earthdata.nasa.gov/esds/impact)): Interagency Implementation and Advanced Concepts Team
+	- [IMPACT](https://earthdata.nasa.gov/esds/impact): Interagency Implementation and Advanced Concepts Team
 
 		外部機関とパートナー契約して、NASAのデータなどの資産を利用してもらえるようサポートするチーム
 
@@ -130,7 +130,7 @@ https://cdn.earthdata.nasa.gov/conduit/upload/11833/EOSDIS_Handbook_1.5.pdf
 
 	画像提供サービス。
 	GIBS内部でデータを処理してモザイクタイルにし、それをWMS/WMTSサーバから配信している。
-	[image:42CFE533-94A6-4BCF-9C5F-838D8EDE2C16-560-000006168C9CD33A/0C65D698-4019-4F16-AC43-5C45DCF19B1B.png]
+	
 	https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs
 
 	WorldViewはGIBSからデータを取得しOpenLayersなどを使って可視化したソフトウェア
@@ -185,7 +185,7 @@ These capabilities include:
 - Science Data Processing
 
 	Level 0: raw data
-	
+
 	Most data sets are processed to Level 1B, which is calibrated and geolocated radiance.
 	画像の切り出し、感度調整、結像、歪みの除去など補正が主になる
 
