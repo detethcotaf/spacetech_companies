@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'SpaceTech Companies',
   tagline: 'Dinosaurs are cool',
   url: 'https://detethcotaf.github.io',
-  baseUrl: '/spacetech-companies/',
+  baseUrl: '/spacetech_companies/',
   projectName: 'detethcotaf.github.io',
   organizationName: 'detethcotaf',
   onBrokenLinks: 'throw',
