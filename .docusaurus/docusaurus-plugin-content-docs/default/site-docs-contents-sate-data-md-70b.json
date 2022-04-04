@@ -1,0 +1,20 @@
+{
+  "unversionedId": "contents_sate_data",
+  "id": "contents_sate_data",
+  "isDocsHomePage": false,
+  "title": "contents",
+  "description": "抽象",
+  "source": "@site/docs/contents_sate_data.md",
+  "sourceDirName": ".",
+  "slug": "/contents_sate_data",
+  "permalink": "/spacetech_companies/docs/contents_sate_data",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/contents_sate_data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/nasa_earthdata"
+  }
+}

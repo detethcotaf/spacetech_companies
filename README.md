@@ -4,12 +4,6 @@
 $ npx @docusaurus/init@latest init spacetech-companies classic
 ```
 
-
-```
-github
-```
-
-
 ```
 git init
 git branch -M main
@@ -20,9 +14,6 @@ git commit -m "Initial commit"
 git remote add origin $YOUR_HOST_ALIAS:$YOUR_GITHUB_USERNAME/$YOUR_REPOSITORY_NAME.git
 git push --set-upstream origin main
 ```
-
-
-
 
 # Website
 
@@ -41,6 +32,7 @@ $ yarn start
 ```
 
 specified port
+
 ```
 $ yarn start --port 3333
 ```

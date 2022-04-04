@@ -110,11 +110,17 @@ export default [
   },
   {
     path: '/spacetech_companies/docs',
-    component: ComponentCreator('/spacetech_companies/docs','98b'),
+    component: ComponentCreator('/spacetech_companies/docs','951'),
     routes: [
       {
         path: '/spacetech_companies/docs/companies',
         component: ComponentCreator('/spacetech_companies/docs/companies','d34'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/contents_sate_data',
+        component: ComponentCreator('/spacetech_companies/docs/contents_sate_data','357'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

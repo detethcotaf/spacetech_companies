@@ -22,6 +22,11 @@
         "type": "link",
         "label": "NASA Earthdata",
         "href": "/spacetech_companies/docs/nasa_earthdata"
+      },
+      {
+        "type": "link",
+        "label": "contents",
+        "href": "/spacetech_companies/docs/contents_sate_data"
       }
     ]
   }

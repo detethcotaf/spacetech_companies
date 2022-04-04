@@ -7,16 +7,16 @@
           "versionLabel": "Next",
           "versionPath": "/spacetech_companies/docs",
           "tagsPath": "/spacetech_companies/docs/tags",
-          "versionEditUrl": "https://github.com/detethcotaf/spacetech_companies/docs",
-          "versionEditUrlLocalized": "https://github.com/detethcotaf/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs",
+          "versionEditUrlLocalized": "https://github.com/detethcotaf/spacetech_companies/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
-          "contentPath": "/home/okuma/docusaurus/spacetech_companies/docs",
-          "contentPathLocalized": "/home/okuma/docusaurus/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/sidebars.js",
+          "contentPath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/docs",
+          "contentPathLocalized": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "home",
           "sidebars": {
             "tutorialSidebar": [
@@ -31,6 +31,10 @@
               {
                 "type": "doc",
                 "id": "nasa_earthdata"
+              },
+              {
+                "type": "doc",
+                "id": "contents_sate_data"
               }
             ]
           },
@@ -40,12 +44,12 @@
               "id": "companies",
               "isDocsHomePage": false,
               "title": "Spacetech companies",
-              "description": "------",
+              "description": "---",
               "source": "@site/docs/companies.md",
               "sourceDirName": ".",
               "slug": "/companies",
               "permalink": "/spacetech_companies/docs/companies",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/companies.md",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/companies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -63,6 +67,26 @@
               }
             },
             {
+              "unversionedId": "contents_sate_data",
+              "id": "contents_sate_data",
+              "isDocsHomePage": false,
+              "title": "contents",
+              "description": "抽象",
+              "source": "@site/docs/contents_sate_data.md",
+              "sourceDirName": ".",
+              "slug": "/contents_sate_data",
+              "permalink": "/spacetech_companies/docs/contents_sate_data",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/contents_sate_data.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NASA Earthdata",
+                "permalink": "/spacetech_companies/docs/nasa_earthdata"
+              }
+            },
+            {
               "unversionedId": "home",
               "id": "home",
               "isDocsHomePage": false,
@@ -72,7 +96,7 @@
               "sourceDirName": ".",
               "slug": "/home",
               "permalink": "/spacetech_companies/docs/home",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/home.md",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/home.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -97,7 +121,7 @@
               "sourceDirName": ".",
               "slug": "/nasa_earthdata",
               "permalink": "/spacetech_companies/docs/nasa_earthdata",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/docs/nasa_earthdata.md",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/nasa_earthdata.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -108,6 +132,10 @@
               "previous": {
                 "title": "Spacetech companies",
                 "permalink": "/spacetech_companies/docs/companies"
+              },
+              "next": {
+                "title": "contents",
+                "permalink": "/spacetech_companies/docs/contents_sate_data"
               }
             }
           ]
@@ -123,7 +151,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/spacetech_companies/blog/welcome",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -171,7 +199,7 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/spacetech_companies/blog/mdx-blog-post",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2021-08-01-mdx-blog-post.mdx",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -208,7 +236,7 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/spacetech_companies/blog/long-blog-post",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2019-05-29-long-blog-post.md",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -249,7 +277,7 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/spacetech_companies/blog/first-blog-post",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/blog/2019-05-28-first-blog-post.md",
+            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",

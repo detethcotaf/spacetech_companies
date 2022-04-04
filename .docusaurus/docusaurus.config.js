@@ -13,15 +13,15 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
-          "editUrl": "https://github.com/detethcotaf/spacetech_companies/"
+          "sidebarPath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/sidebars.js",
+          "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/detethcotaf/spacetech_companies/"
+          "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/"
         },
         "theme": {
-          "customCss": "/home/okuma/docusaurus/spacetech_companies/src/css/custom.css"
+          "customCss": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/src/css/custom.css"
         }
       }
     ]

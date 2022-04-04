@@ -1,0 +1,20 @@
+{
+  "unversionedId": "競合",
+  "id": "競合",
+  "isDocsHomePage": false,
+  "title": "競合",
+  "description": "",
+  "source": "@site/docs/競合.md",
+  "sourceDirName": ".",
+  "slug": "/競合",
+  "permalink": "/spacetech_companies/docs/競合",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/競合.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contents",
+    "permalink": "/spacetech_companies/docs/contents_sate_data"
+  }
+}
