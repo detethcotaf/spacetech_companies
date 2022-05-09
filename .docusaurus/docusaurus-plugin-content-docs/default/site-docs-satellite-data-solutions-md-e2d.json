@@ -1,0 +1,23 @@
+{
+  "unversionedId": "satellite_data_solutions",
+  "id": "satellite_data_solutions",
+  "isDocsHomePage": false,
+  "title": "衛星データソリューション一覧",
+  "description": "衛星データソリューション事例",
+  "source": "@site/docs/satellite_data_solutions.md",
+  "sourceDirName": ".",
+  "slug": "/satellite_data_solutions",
+  "permalink": "/spacetech_companies/docs/satellite_data_solutions",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/satellite_data_solutions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/nasa_earthdata"
+  }
+}

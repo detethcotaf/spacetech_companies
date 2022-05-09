@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "contents_sate_data",
-              "path": "/spacetech_companies/docs/contents_sate_data",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "home",
               "path": "/spacetech_companies/docs/home",
               "sidebar": "tutorialSidebar"
@@ -28,6 +23,11 @@
             {
               "id": "nasa_earthdata",
               "path": "/spacetech_companies/docs/nasa_earthdata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "satellite_data_solutions",
+              "path": "/spacetech_companies/docs/satellite_data_solutions",
               "sidebar": "tutorialSidebar"
             }
           ]
