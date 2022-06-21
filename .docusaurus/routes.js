@@ -110,11 +110,17 @@ export default [
   },
   {
     path: '/spacetech_companies/docs',
-    component: ComponentCreator('/spacetech_companies/docs','058'),
+    component: ComponentCreator('/spacetech_companies/docs','871'),
     routes: [
       {
         path: '/spacetech_companies/docs/companies',
         component: ComponentCreator('/spacetech_companies/docs/companies','d34'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/data_processing',
+        component: ComponentCreator('/spacetech_companies/docs/data_processing','88c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -127,6 +133,12 @@ export default [
       {
         path: '/spacetech_companies/docs/nasa_earthdata',
         component: ComponentCreator('/spacetech_companies/docs/nasa_earthdata','887'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/remote_sensing_basic',
+        component: ComponentCreator('/spacetech_companies/docs/remote_sensing_basic','5c9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

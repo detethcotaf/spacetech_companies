@@ -15,7 +15,17 @@ git remote add origin $YOUR_HOST_ALIAS:$YOUR_GITHUB_USERNAME/$YOUR_REPOSITORY_NA
 git push --set-upstream origin main
 ```
 
-# Website
+# 運用
+
+- `docs/`にドキュメントを用意する
+- 開発環境で確認する
+    - yarnコマンドがある状態で、ルートディレクトリ（.yarnがあるディレクトリ）にて`yarn start --port XXXX`を実行する
+    - 実行結果として表示されるログにURLが記載されているので、そこにアクセスする
+    - markdownの見た目を確認する
+- mainブランチにgit pushすればCICDが稼働し、自動的にGitHub Pagesを更新してくれる
+
+
+# Reference
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 

@@ -13,7 +13,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/sidebars.js",
+          "sidebarPath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
           "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/"
         },
         "theme": {
-          "customCss": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/docusaurus/spacetech_companies/src/css/custom.css"
+          "customCss": "/home/okuma/docusaurus/spacetech_companies/src/css/custom.css"
         }
       }
     ]

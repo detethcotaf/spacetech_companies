@@ -1,0 +1,27 @@
+{
+  "unversionedId": "remote_sensing_basic",
+  "id": "remote_sensing_basic",
+  "isDocsHomePage": false,
+  "title": "リモートセンシングの波長・センサ・座標",
+  "description": "波長",
+  "source": "@site/docs/remote_sensing_basic.md",
+  "sourceDirName": ".",
+  "slug": "/remote_sensing_basic",
+  "permalink": "/spacetech_companies/docs/remote_sensing_basic",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/remote_sensing_basic.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データソリューション一覧",
+    "permalink": "/spacetech_companies/docs/satellite_data_solutions"
+  },
+  "next": {
+    "title": "衛星データの処理・解析",
+    "permalink": "/spacetech_companies/docs/data_processing"
+  }
+}

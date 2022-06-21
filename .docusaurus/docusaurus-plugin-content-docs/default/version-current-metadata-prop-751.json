@@ -27,6 +27,16 @@
         "type": "link",
         "label": "衛星データソリューション一覧",
         "href": "/spacetech_companies/docs/satellite_data_solutions"
+      },
+      {
+        "type": "link",
+        "label": "リモートセンシングの波長・センサ・座標",
+        "href": "/spacetech_companies/docs/remote_sensing_basic"
+      },
+      {
+        "type": "link",
+        "label": "衛星データの処理・解析",
+        "href": "/spacetech_companies/docs/data_processing"
       }
     ]
   }

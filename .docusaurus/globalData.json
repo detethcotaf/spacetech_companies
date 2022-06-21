@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "data_processing",
+              "path": "/spacetech_companies/docs/data_processing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "home",
               "path": "/spacetech_companies/docs/home",
               "sidebar": "tutorialSidebar"
@@ -23,6 +28,11 @@
             {
               "id": "nasa_earthdata",
               "path": "/spacetech_companies/docs/nasa_earthdata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "remote_sensing_basic",
+              "path": "/spacetech_companies/docs/remote_sensing_basic",
               "sidebar": "tutorialSidebar"
             },
             {

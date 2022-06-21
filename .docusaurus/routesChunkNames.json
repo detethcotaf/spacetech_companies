@@ -133,13 +133,17 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---spacetech-companies-markdown-page-393-4ce"
   },
-  "/spacetech_companies/docs-058": {
+  "/spacetech_companies/docs-871": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---spacetech-companies-docs-935-999"
   },
   "/spacetech_companies/docs/companies-d34": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---spacetech-companies-docs-companiesf-55-8cc"
+  },
+  "/spacetech_companies/docs/data_processing-88c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-data-processingc-3-f-5d6"
   },
   "/spacetech_companies/docs/home-50c": {
     "component": "component---theme-doc-item-178-a40",
@@ -148,6 +152,10 @@
   "/spacetech_companies/docs/nasa_earthdata-887": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---spacetech-companies-docs-nasa-earthdataeda-31c"
+  },
+  "/spacetech_companies/docs/remote_sensing_basic-5c9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-remote-sensing-basic-869-5c7"
   },
   "/spacetech_companies/docs/satellite_data_solutions-51d": {
     "component": "component---theme-doc-item-178-a40",

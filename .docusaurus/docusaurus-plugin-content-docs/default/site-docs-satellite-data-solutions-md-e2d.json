@@ -19,5 +19,9 @@
   "previous": {
     "title": "NASA Earthdata",
     "permalink": "/spacetech_companies/docs/nasa_earthdata"
+  },
+  "next": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/remote_sensing_basic"
   }
 }

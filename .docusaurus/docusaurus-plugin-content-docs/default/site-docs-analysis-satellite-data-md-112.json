@@ -1,0 +1,20 @@
+{
+  "unversionedId": "analysis_satellite_data",
+  "id": "analysis_satellite_data",
+  "isDocsHomePage": false,
+  "title": "衛星データ解析をする上で必要な知識",
+  "description": "衛星画像の基礎知識",
+  "source": "@site/docs/analysis_satellite_data.md",
+  "sourceDirName": ".",
+  "slug": "/analysis_satellite_data",
+  "permalink": "/spacetech_companies/docs/analysis_satellite_data",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/analysis_satellite_data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データの処理・解析",
+    "permalink": "/spacetech_companies/docs/data_processing"
+  }
+}
