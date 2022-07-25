@@ -3,7 +3,7 @@
   "id": "home",
   "isDocsHomePage": false,
   "title": "Home",
-  "description": "",
+  "description": "- 宇宙ビジネス関連",
   "source": "@site/docs/home.md",
   "sourceDirName": ".",
   "slug": "/home",
@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Spacetech companies",
-    "permalink": "/spacetech_companies/docs/companies"
+    "title": "ブロックチェーンの基本を理解する",
+    "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
   }
 }

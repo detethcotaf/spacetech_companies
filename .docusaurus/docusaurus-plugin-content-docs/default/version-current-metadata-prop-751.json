@@ -14,29 +14,50 @@
         "href": "/spacetech_companies/docs/home"
       },
       {
-        "type": "link",
-        "label": "Spacetech companies",
-        "href": "/spacetech_companies/docs/companies"
+        "type": "category",
+        "label": "blockchain",
+        "items": [
+          {
+            "type": "link",
+            "label": "ブロックチェーンの基本を理解する",
+            "href": "/spacetech_companies/docs/blockchain/blockchain_entry"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       },
       {
-        "type": "link",
-        "label": "NASA Earthdata",
-        "href": "/spacetech_companies/docs/nasa_earthdata"
-      },
-      {
-        "type": "link",
-        "label": "衛星データソリューション一覧",
-        "href": "/spacetech_companies/docs/satellite_data_solutions"
-      },
-      {
-        "type": "link",
-        "label": "リモートセンシングの波長・センサ・座標",
-        "href": "/spacetech_companies/docs/remote_sensing_basic"
-      },
-      {
-        "type": "link",
-        "label": "衛星データの処理・解析",
-        "href": "/spacetech_companies/docs/data_processing"
+        "type": "category",
+        "label": "space",
+        "items": [
+          {
+            "type": "link",
+            "label": "Spacetech companies",
+            "href": "/spacetech_companies/docs/space/spacetech_companies"
+          },
+          {
+            "type": "link",
+            "label": "NASA Earthdata",
+            "href": "/spacetech_companies/docs/space/nasa_earthdata"
+          },
+          {
+            "type": "link",
+            "label": "衛星データソリューション一覧",
+            "href": "/spacetech_companies/docs/space/satellite_data_solutions"
+          },
+          {
+            "type": "link",
+            "label": "リモートセンシングの波長・センサ・座標",
+            "href": "/spacetech_companies/docs/space/remote_sensing_basic"
+          },
+          {
+            "type": "link",
+            "label": "衛星データの処理・解析",
+            "href": "/spacetech_companies/docs/space/data_processing"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   }

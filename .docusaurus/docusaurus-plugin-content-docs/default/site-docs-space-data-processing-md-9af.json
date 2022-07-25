@@ -1,0 +1,23 @@
+{
+  "unversionedId": "space/data_processing",
+  "id": "space/data_processing",
+  "isDocsHomePage": false,
+  "title": "衛星データの処理・解析",
+  "description": "データ処理",
+  "source": "@site/docs/space/data_processing.md",
+  "sourceDirName": "space",
+  "slug": "/space/data_processing",
+  "permalink": "/spacetech_companies/docs/space/data_processing",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/data_processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/space/remote_sensing_basic"
+  }
+}

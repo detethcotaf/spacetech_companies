@@ -4,18 +4,6 @@
     {
       "title": "Welcome",
       "permalink": "/spacetech_companies/blog/welcome"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/spacetech_companies/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/spacetech_companies/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/spacetech_companies/blog/first-blog-post"
     }
   ]
 }

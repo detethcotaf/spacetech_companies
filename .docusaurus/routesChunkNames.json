@@ -25,21 +25,12 @@
   "/spacetech_companies/__docusaurus/debug/routes-856": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/spacetech_companies/blog-50e": {
+  "/spacetech_companies/blog-d1a": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
         "content": "content---spacetech-companies-blog-766-063"
-      },
-      {
-        "content": "content---spacetech-companies-blogf-4-f-da9"
-      },
-      {
-        "content": "content---spacetech-companies-blog-871-7af"
-      },
-      {
-        "content": "content---spacetech-companies-blog-925-b50"
       }
     ],
     "metadata": "metadata---spacetech-companies-blogb-47-a36"
@@ -48,77 +39,30 @@
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
     "archive": "archive---spacetech-companies-blog-archive-26-e-066"
   },
-  "/spacetech_companies/blog/first-blog-post-d70": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
-    "content": "content---spacetech-companies-blog-first-blog-poste-27-918"
-  },
-  "/spacetech_companies/blog/long-blog-post-8bb": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
-    "content": "content---spacetech-companies-blog-long-blog-post-736-05a"
-  },
-  "/spacetech_companies/blog/mdx-blog-post-c38": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
-    "content": "content---spacetech-companies-blog-mdx-blog-post-593-423"
-  },
   "/spacetech_companies/blog/tags-446": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
     "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "tags": "tags---spacetech-companies-blog-tags-8-c-9-af8"
   },
-  "/spacetech_companies/blog/tags/docusaurus-44a": {
+  "/spacetech_companies/blog/tags/docusaurus-ba8": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
         "content": "content---spacetech-companies-blog-766-063"
-      },
-      {
-        "content": "content---spacetech-companies-blogf-4-f-da9"
-      },
-      {
-        "content": "content---spacetech-companies-blog-871-7af"
-      },
-      {
-        "content": "content---spacetech-companies-blog-925-b50"
       }
     ],
     "metadata": "metadata---spacetech-companies-blog-tags-docusaurus-6-b-6-d21"
   },
-  "/spacetech_companies/blog/tags/facebook-4b8": {
+  "/spacetech_companies/blog/tags/hello-196": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
     "items": [
       {
         "content": "content---spacetech-companies-blog-766-063"
-      }
-    ],
-    "metadata": "metadata---spacetech-companies-blog-tags-facebook-637-282"
-  },
-  "/spacetech_companies/blog/tags/hello-373": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
-    "items": [
-      {
-        "content": "content---spacetech-companies-blog-766-063"
-      },
-      {
-        "content": "content---spacetech-companies-blog-871-7af"
       }
     ],
     "metadata": "metadata---spacetech-companies-blog-tags-hello-20-c-396"
-  },
-  "/spacetech_companies/blog/tags/hola-55b": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---spacetech-companies-blog-814-1b2",
-    "items": [
-      {
-        "content": "content---spacetech-companies-blog-925-b50"
-      }
-    ],
-    "metadata": "metadata---spacetech-companies-blog-tags-hola-0-fc-151"
   },
   "/spacetech_companies/blog/welcome-e6a": {
     "component": "component---theme-blog-post-pageccc-cab",
@@ -133,32 +77,36 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---spacetech-companies-markdown-page-393-4ce"
   },
-  "/spacetech_companies/docs-871": {
+  "/spacetech_companies/docs-7c2": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---spacetech-companies-docs-935-999"
   },
-  "/spacetech_companies/docs/companies-d34": {
+  "/spacetech_companies/docs/blockchain/blockchain_entry-145": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-companiesf-55-8cc"
-  },
-  "/spacetech_companies/docs/data_processing-88c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-data-processingc-3-f-5d6"
+    "content": "content---spacetech-companies-docs-blockchain-blockchain-entry-9-fc-30b"
   },
   "/spacetech_companies/docs/home-50c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---spacetech-companies-docs-home-3-d-9-0c4"
   },
-  "/spacetech_companies/docs/nasa_earthdata-887": {
+  "/spacetech_companies/docs/space/data_processing-7fb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-nasa-earthdataeda-31c"
+    "content": "content---spacetech-companies-docs-space-data-processing-9-af-1a4"
   },
-  "/spacetech_companies/docs/remote_sensing_basic-5c9": {
+  "/spacetech_companies/docs/space/nasa_earthdata-e2a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-remote-sensing-basic-869-5c7"
+    "content": "content---spacetech-companies-docs-space-nasa-earthdatac-15-827"
   },
-  "/spacetech_companies/docs/satellite_data_solutions-51d": {
+  "/spacetech_companies/docs/space/remote_sensing_basic-122": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-satellite-data-solutionse-2-d-1fe"
+    "content": "content---spacetech-companies-docs-space-remote-sensing-basic-8-e-3-166"
+  },
+  "/spacetech_companies/docs/space/satellite_data_solutions-fd6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-space-satellite-data-solutionsdcc-8de"
+  },
+  "/spacetech_companies/docs/space/spacetech_companies-1b4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-space-spacetech-companies-81-f-284"
   }
 }

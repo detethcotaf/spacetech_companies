@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
-          "contentPath": "/home/okuma/docusaurus/spacetech_companies/docs",
-          "contentPathLocalized": "/home/okuma/docusaurus/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/codeWork/spacetech_companies/sidebars.js",
+          "contentPath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/codeWork/spacetech_companies/docs",
+          "contentPathLocalized": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/codeWork/spacetech_companies/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "home",
           "sidebars": {
             "tutorialSidebar": [
@@ -25,44 +25,64 @@
                 "id": "home"
               },
               {
-                "type": "doc",
-                "id": "companies"
+                "type": "category",
+                "label": "blockchain",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "blockchain/blockchain_entry"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               },
               {
-                "type": "doc",
-                "id": "nasa_earthdata"
-              },
-              {
-                "type": "doc",
-                "id": "satellite_data_solutions"
-              },
-              {
-                "type": "doc",
-                "id": "remote_sensing_basic"
-              },
-              {
-                "type": "doc",
-                "id": "data_processing"
+                "type": "category",
+                "label": "space",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "space/spacetech_companies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "space/nasa_earthdata"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "space/satellite_data_solutions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "space/remote_sensing_basic"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "space/data_processing"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               }
             ]
           },
           "docs": [
             {
-              "unversionedId": "companies",
-              "id": "companies",
+              "unversionedId": "blockchain/blockchain_entry",
+              "id": "blockchain/blockchain_entry",
               "isDocsHomePage": false,
-              "title": "Spacetech companies",
-              "description": "---",
-              "source": "@site/docs/companies.md",
-              "sourceDirName": ".",
-              "slug": "/companies",
-              "permalink": "/spacetech_companies/docs/companies",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/companies.md",
+              "title": "ブロックチェーンの基本を理解する",
+              "description": "ブロックチェーンとは",
+              "source": "@site/docs/blockchain/blockchain_entry.md",
+              "sourceDirName": "blockchain",
+              "slug": "/blockchain/blockchain_entry",
+              "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/blockchain_entry.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -70,31 +90,8 @@
                 "permalink": "/spacetech_companies/docs/home"
               },
               "next": {
-                "title": "NASA Earthdata",
-                "permalink": "/spacetech_companies/docs/nasa_earthdata"
-              }
-            },
-            {
-              "unversionedId": "data_processing",
-              "id": "data_processing",
-              "isDocsHomePage": false,
-              "title": "衛星データの処理・解析",
-              "description": "データ処理",
-              "source": "@site/docs/data_processing.md",
-              "sourceDirName": ".",
-              "slug": "/data_processing",
-              "permalink": "/spacetech_companies/docs/data_processing",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/data_processing.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "リモートセンシングの波長・センサ・座標",
-                "permalink": "/spacetech_companies/docs/remote_sensing_basic"
+                "title": "Spacetech companies",
+                "permalink": "/spacetech_companies/docs/space/spacetech_companies"
               }
             },
             {
@@ -102,7 +99,7 @@
               "id": "home",
               "isDocsHomePage": false,
               "title": "Home",
-              "description": "",
+              "description": "- 宇宙ビジネス関連",
               "source": "@site/docs/home.md",
               "sourceDirName": ".",
               "slug": "/home",
@@ -118,21 +115,44 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Spacetech companies",
-                "permalink": "/spacetech_companies/docs/companies"
+                "title": "ブロックチェーンの基本を理解する",
+                "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
               }
             },
             {
-              "unversionedId": "nasa_earthdata",
-              "id": "nasa_earthdata",
+              "unversionedId": "space/data_processing",
+              "id": "space/data_processing",
+              "isDocsHomePage": false,
+              "title": "衛星データの処理・解析",
+              "description": "データ処理",
+              "source": "@site/docs/space/data_processing.md",
+              "sourceDirName": "space",
+              "slug": "/space/data_processing",
+              "permalink": "/spacetech_companies/docs/space/data_processing",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/data_processing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "リモートセンシングの波長・センサ・座標",
+                "permalink": "/spacetech_companies/docs/space/remote_sensing_basic"
+              }
+            },
+            {
+              "unversionedId": "space/nasa_earthdata",
+              "id": "space/nasa_earthdata",
               "isDocsHomePage": false,
               "title": "NASA Earthdata",
               "description": "公式ページ",
-              "source": "@site/docs/nasa_earthdata.md",
-              "sourceDirName": ".",
-              "slug": "/nasa_earthdata",
-              "permalink": "/spacetech_companies/docs/nasa_earthdata",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/nasa_earthdata.md",
+              "source": "@site/docs/space/nasa_earthdata.md",
+              "sourceDirName": "space",
+              "slug": "/space/nasa_earthdata",
+              "permalink": "/spacetech_companies/docs/space/nasa_earthdata",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/nasa_earthdata.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -142,24 +162,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Spacetech companies",
-                "permalink": "/spacetech_companies/docs/companies"
+                "permalink": "/spacetech_companies/docs/space/spacetech_companies"
               },
               "next": {
                 "title": "衛星データソリューション一覧",
-                "permalink": "/spacetech_companies/docs/satellite_data_solutions"
+                "permalink": "/spacetech_companies/docs/space/satellite_data_solutions"
               }
             },
             {
-              "unversionedId": "remote_sensing_basic",
-              "id": "remote_sensing_basic",
+              "unversionedId": "space/remote_sensing_basic",
+              "id": "space/remote_sensing_basic",
               "isDocsHomePage": false,
               "title": "リモートセンシングの波長・センサ・座標",
               "description": "波長",
-              "source": "@site/docs/remote_sensing_basic.md",
-              "sourceDirName": ".",
-              "slug": "/remote_sensing_basic",
-              "permalink": "/spacetech_companies/docs/remote_sensing_basic",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/remote_sensing_basic.md",
+              "source": "@site/docs/space/remote_sensing_basic.md",
+              "sourceDirName": "space",
+              "slug": "/space/remote_sensing_basic",
+              "permalink": "/spacetech_companies/docs/space/remote_sensing_basic",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/remote_sensing_basic.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -169,24 +189,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "衛星データソリューション一覧",
-                "permalink": "/spacetech_companies/docs/satellite_data_solutions"
+                "permalink": "/spacetech_companies/docs/space/satellite_data_solutions"
               },
               "next": {
                 "title": "衛星データの処理・解析",
-                "permalink": "/spacetech_companies/docs/data_processing"
+                "permalink": "/spacetech_companies/docs/space/data_processing"
               }
             },
             {
-              "unversionedId": "satellite_data_solutions",
-              "id": "satellite_data_solutions",
+              "unversionedId": "space/satellite_data_solutions",
+              "id": "space/satellite_data_solutions",
               "isDocsHomePage": false,
               "title": "衛星データソリューション一覧",
               "description": "衛星データソリューション事例",
-              "source": "@site/docs/satellite_data_solutions.md",
-              "sourceDirName": ".",
-              "slug": "/satellite_data_solutions",
-              "permalink": "/spacetech_companies/docs/satellite_data_solutions",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/satellite_data_solutions.md",
+              "source": "@site/docs/space/satellite_data_solutions.md",
+              "sourceDirName": "space",
+              "slug": "/space/satellite_data_solutions",
+              "permalink": "/spacetech_companies/docs/space/satellite_data_solutions",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data_solutions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -196,11 +216,38 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NASA Earthdata",
-                "permalink": "/spacetech_companies/docs/nasa_earthdata"
+                "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
               },
               "next": {
                 "title": "リモートセンシングの波長・センサ・座標",
-                "permalink": "/spacetech_companies/docs/remote_sensing_basic"
+                "permalink": "/spacetech_companies/docs/space/remote_sensing_basic"
+              }
+            },
+            {
+              "unversionedId": "space/spacetech_companies",
+              "id": "space/spacetech_companies",
+              "isDocsHomePage": false,
+              "title": "Spacetech companies",
+              "description": "---",
+              "source": "@site/docs/space/spacetech_companies.md",
+              "sourceDirName": "space",
+              "slug": "/space/spacetech_companies",
+              "permalink": "/spacetech_companies/docs/space/spacetech_companies",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/spacetech_companies.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ブロックチェーンの基本を理解する",
+                "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
+              },
+              "next": {
+                "title": "NASA Earthdata",
+                "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
               }
             }
           ]
@@ -219,15 +266,11 @@
             "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
-            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "description": "ブログとして使えるページらしい",
             "date": "2021-08-26T00:00:00.000Z",
             "formattedDate": "August 26, 2021",
             "tags": [
               {
-                "label": "facebook",
-                "permalink": "/spacetech_companies/blog/tags/facebook"
-              },
-              {
                 "label": "hello",
                 "permalink": "/spacetech_companies/blog/tags/hello"
               },
@@ -236,143 +279,17 @@
                 "permalink": "/spacetech_companies/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.405,
+            "readingTime": 0.565,
             "truncated": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
-              },
-              {
-                "name": "Yangshun Tay",
-                "title": "Front End Engineer @ Facebook",
-                "url": "https://github.com/yangshun",
-                "imageURL": "https://github.com/yangshun.png",
-                "key": "yangshun"
+                "name": "detethcotaf",
+                "title": "Maintainer of this site",
+                "url": "https://github.com/detethcotaf",
+                "imageURL": "https://github.com/detethcotaf.png",
+                "key": "detethcotaf"
               }
-            ],
-            "nextItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/spacetech_companies/blog/mdx-blog-post"
-            }
-          }
-        },
-        {
-          "id": "mdx-blog-post",
-          "metadata": {
-            "permalink": "/spacetech_companies/blog/mdx-blog-post",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
-            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-            "title": "MDX Blog Post",
-            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
-            "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
-            "tags": [
-              {
-                "label": "docusaurus",
-                "permalink": "/spacetech_companies/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.175,
-            "truncated": false,
-            "authors": [
-              {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
-              }
-            ],
-            "prevItem": {
-              "title": "Welcome",
-              "permalink": "/spacetech_companies/blog/welcome"
-            },
-            "nextItem": {
-              "title": "Long Blog Post",
-              "permalink": "/spacetech_companies/blog/long-blog-post"
-            }
-          }
-        },
-        {
-          "id": "long-blog-post",
-          "metadata": {
-            "permalink": "/spacetech_companies/blog/long-blog-post",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2019-05-29-long-blog-post.md",
-            "source": "@site/blog/2019-05-29-long-blog-post.md",
-            "title": "Long Blog Post",
-            "description": "This is the summary of a very long blog post,",
-            "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
-            "tags": [
-              {
-                "label": "hello",
-                "permalink": "/spacetech_companies/blog/tags/hello"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/spacetech_companies/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 2.05,
-            "truncated": true,
-            "authors": [
-              {
-                "name": "Endilie Yacop Sucipto",
-                "title": "Maintainer of Docusaurus",
-                "url": "https://github.com/endiliey",
-                "imageURL": "https://github.com/endiliey.png",
-                "key": "endi"
-              }
-            ],
-            "prevItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/spacetech_companies/blog/mdx-blog-post"
-            },
-            "nextItem": {
-              "title": "First Blog Post",
-              "permalink": "/spacetech_companies/blog/first-blog-post"
-            }
-          }
-        },
-        {
-          "id": "first-blog-post",
-          "metadata": {
-            "permalink": "/spacetech_companies/blog/first-blog-post",
-            "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/blog/2019-05-28-first-blog-post.md",
-            "source": "@site/blog/2019-05-28-first-blog-post.md",
-            "title": "First Blog Post",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
-            "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
-            "tags": [
-              {
-                "label": "hola",
-                "permalink": "/spacetech_companies/blog/tags/hola"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/spacetech_companies/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.12,
-            "truncated": false,
-            "authors": [
-              {
-                "name": "Gao Wei",
-                "title": "Docusaurus Core Team",
-                "url": "https://github.com/wgao19",
-                "image_url": "https://github.com/wgao19.png",
-                "imageURL": "https://github.com/wgao19.png"
-              }
-            ],
-            "prevItem": {
-              "title": "Long Blog Post",
-              "permalink": "/spacetech_companies/blog/long-blog-post"
-            }
+            ]
           }
         }
       ],
@@ -383,52 +300,31 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 1,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
-            "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "welcome"
           ]
         }
       ],
       "blogTags": {
-        "/spacetech_companies/blog/tags/facebook": {
-          "name": "facebook",
-          "items": [
-            "welcome"
-          ],
-          "permalink": "/spacetech_companies/blog/tags/facebook"
-        },
         "/spacetech_companies/blog/tags/hello": {
           "name": "hello",
           "items": [
-            "welcome",
-            "long-blog-post"
+            "welcome"
           ],
           "permalink": "/spacetech_companies/blog/tags/hello"
         },
         "/spacetech_companies/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
-            "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "welcome"
           ],
           "permalink": "/spacetech_companies/blog/tags/docusaurus"
-        },
-        "/spacetech_companies/blog/tags/hola": {
-          "name": "hola",
-          "items": [
-            "first-blog-post"
-          ],
-          "permalink": "/spacetech_companies/blog/tags/hola"
         }
       },
       "blogTagsListPath": "/spacetech_companies/blog/tags"

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "blockchain/blockchain_entry",
+  "id": "blockchain/blockchain_entry",
+  "isDocsHomePage": false,
+  "title": "ブロックチェーンの基本を理解する",
+  "description": "ブロックチェーンとは",
+  "source": "@site/docs/blockchain/blockchain_entry.md",
+  "sourceDirName": "blockchain",
+  "slug": "/blockchain/blockchain_entry",
+  "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/blockchain_entry.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/spacetech_companies/docs/home"
+  },
+  "next": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/space/spacetech_companies"
+  }
+}

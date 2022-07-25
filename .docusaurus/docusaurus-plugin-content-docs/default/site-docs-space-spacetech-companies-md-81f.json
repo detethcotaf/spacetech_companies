@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/spacetech_companies",
+  "id": "space/spacetech_companies",
+  "isDocsHomePage": false,
+  "title": "Spacetech companies",
+  "description": "---",
+  "source": "@site/docs/space/spacetech_companies.md",
+  "sourceDirName": "space",
+  "slug": "/space/spacetech_companies",
+  "permalink": "/spacetech_companies/docs/space/spacetech_companies",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/spacetech_companies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ブロックチェーンの基本を理解する",
+    "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
+  },
+  "next": {
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
+  }
+}

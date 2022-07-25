@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/satellite_data_solutions",
+  "id": "space/satellite_data_solutions",
+  "isDocsHomePage": false,
+  "title": "衛星データソリューション一覧",
+  "description": "衛星データソリューション事例",
+  "source": "@site/docs/space/satellite_data_solutions.md",
+  "sourceDirName": "space",
+  "slug": "/space/satellite_data_solutions",
+  "permalink": "/spacetech_companies/docs/space/satellite_data_solutions",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data_solutions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
+  },
+  "next": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/space/remote_sensing_basic"
+  }
+}

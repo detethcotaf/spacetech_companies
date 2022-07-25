@@ -11,13 +11,8 @@
           "mainDocId": "home",
           "docs": [
             {
-              "id": "companies",
-              "path": "/spacetech_companies/docs/companies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "data_processing",
-              "path": "/spacetech_companies/docs/data_processing",
+              "id": "blockchain/blockchain_entry",
+              "path": "/spacetech_companies/docs/blockchain/blockchain_entry",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -26,18 +21,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "nasa_earthdata",
-              "path": "/spacetech_companies/docs/nasa_earthdata",
+              "id": "space/data_processing",
+              "path": "/spacetech_companies/docs/space/data_processing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "remote_sensing_basic",
-              "path": "/spacetech_companies/docs/remote_sensing_basic",
+              "id": "space/nasa_earthdata",
+              "path": "/spacetech_companies/docs/space/nasa_earthdata",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "satellite_data_solutions",
-              "path": "/spacetech_companies/docs/satellite_data_solutions",
+              "id": "space/remote_sensing_basic",
+              "path": "/spacetech_companies/docs/space/remote_sensing_basic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "space/satellite_data_solutions",
+              "path": "/spacetech_companies/docs/space/satellite_data_solutions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "space/spacetech_companies",
+              "path": "/spacetech_companies/docs/space/spacetech_companies",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -1,6 +1,6 @@
 export default {
-  "title": "SpaceTech Companies",
-  "tagline": "Dinosaurs are cool",
+  "title": "自分用のメモを貯めておくサイト",
+  "tagline": "detethcotaf",
   "url": "https://detethcotaf.github.io",
   "baseUrl": "/spacetech_companies/",
   "projectName": "detethcotaf.github.io",
@@ -13,7 +13,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/okuma/docusaurus/spacetech_companies/sidebars.js",
+          "sidebarPath": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/codeWork/spacetech_companies/sidebars.js",
           "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/"
         },
         "theme": {
-          "customCss": "/home/okuma/docusaurus/spacetech_companies/src/css/custom.css"
+          "customCss": "/Users/s-ohkuma/Library/Mobile Documents/com~apple~CloudDocs/all/codeWork/spacetech_companies/src/css/custom.css"
         }
       }
     ]

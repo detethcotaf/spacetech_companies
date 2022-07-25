@@ -45,27 +45,12 @@ export default [
   },
   {
     path: '/spacetech_companies/blog',
-    component: ComponentCreator('/spacetech_companies/blog','50e'),
+    component: ComponentCreator('/spacetech_companies/blog','d1a'),
     exact: true
   },
   {
     path: '/spacetech_companies/blog/archive',
     component: ComponentCreator('/spacetech_companies/blog/archive','c23'),
-    exact: true
-  },
-  {
-    path: '/spacetech_companies/blog/first-blog-post',
-    component: ComponentCreator('/spacetech_companies/blog/first-blog-post','d70'),
-    exact: true
-  },
-  {
-    path: '/spacetech_companies/blog/long-blog-post',
-    component: ComponentCreator('/spacetech_companies/blog/long-blog-post','8bb'),
-    exact: true
-  },
-  {
-    path: '/spacetech_companies/blog/mdx-blog-post',
-    component: ComponentCreator('/spacetech_companies/blog/mdx-blog-post','c38'),
     exact: true
   },
   {
@@ -75,22 +60,12 @@ export default [
   },
   {
     path: '/spacetech_companies/blog/tags/docusaurus',
-    component: ComponentCreator('/spacetech_companies/blog/tags/docusaurus','44a'),
-    exact: true
-  },
-  {
-    path: '/spacetech_companies/blog/tags/facebook',
-    component: ComponentCreator('/spacetech_companies/blog/tags/facebook','4b8'),
+    component: ComponentCreator('/spacetech_companies/blog/tags/docusaurus','ba8'),
     exact: true
   },
   {
     path: '/spacetech_companies/blog/tags/hello',
-    component: ComponentCreator('/spacetech_companies/blog/tags/hello','373'),
-    exact: true
-  },
-  {
-    path: '/spacetech_companies/blog/tags/hola',
-    component: ComponentCreator('/spacetech_companies/blog/tags/hola','55b'),
+    component: ComponentCreator('/spacetech_companies/blog/tags/hello','196'),
     exact: true
   },
   {
@@ -110,17 +85,11 @@ export default [
   },
   {
     path: '/spacetech_companies/docs',
-    component: ComponentCreator('/spacetech_companies/docs','871'),
+    component: ComponentCreator('/spacetech_companies/docs','7c2'),
     routes: [
       {
-        path: '/spacetech_companies/docs/companies',
-        component: ComponentCreator('/spacetech_companies/docs/companies','d34'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/data_processing',
-        component: ComponentCreator('/spacetech_companies/docs/data_processing','88c'),
+        path: '/spacetech_companies/docs/blockchain/blockchain_entry',
+        component: ComponentCreator('/spacetech_companies/docs/blockchain/blockchain_entry','145'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -131,20 +100,32 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/nasa_earthdata',
-        component: ComponentCreator('/spacetech_companies/docs/nasa_earthdata','887'),
+        path: '/spacetech_companies/docs/space/data_processing',
+        component: ComponentCreator('/spacetech_companies/docs/space/data_processing','7fb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/remote_sensing_basic',
-        component: ComponentCreator('/spacetech_companies/docs/remote_sensing_basic','5c9'),
+        path: '/spacetech_companies/docs/space/nasa_earthdata',
+        component: ComponentCreator('/spacetech_companies/docs/space/nasa_earthdata','e2a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/satellite_data_solutions',
-        component: ComponentCreator('/spacetech_companies/docs/satellite_data_solutions','51d'),
+        path: '/spacetech_companies/docs/space/remote_sensing_basic',
+        component: ComponentCreator('/spacetech_companies/docs/space/remote_sensing_basic','122'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/space/satellite_data_solutions',
+        component: ComponentCreator('/spacetech_companies/docs/space/satellite_data_solutions','fd6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/space/spacetech_companies',
+        component: ComponentCreator('/spacetech_companies/docs/space/spacetech_companies','1b4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
