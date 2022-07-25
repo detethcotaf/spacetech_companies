@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspacetech_companies=self.webpackChunkspacetech_companies||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/spacetech_companies/blog/welcome"}]}')}}]);

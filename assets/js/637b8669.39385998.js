@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspacetech_companies=self.webpackChunkspacetech_companies||[]).push([[94],{5179:function(e){e.exports=JSON.parse('{"allTagsPath":"/spacetech_companies/blog/tags","slug":"/spacetech_companies/blog/tags/facebook","name":"facebook","count":1,"permalink":"/spacetech_companies/blog/tags/facebook"}')}}]);
