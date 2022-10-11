@@ -1,0 +1,24 @@
+{
+  "unversionedId": "space/satellite_data/s2_oah",
+  "id": "space/satellite_data/s2_oah",
+  "isDocsHomePage": false,
+  "title": "Sentinel-2 × Open Access Hub",
+  "description": "- まずはメタデータを取得する",
+  "source": "@site/docs/space/satellite_data/s2_oah.md",
+  "sourceDirName": "space/satellite_data",
+  "slug": "/space/satellite_data/s2_oah",
+  "permalink": "/spacetech_companies/docs/space/satellite_data/s2_oah",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/s2_oah.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データの処理・解析",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing"
+  },
+  "next": {
+    "title": "衛星データ形式",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
+  }
+}

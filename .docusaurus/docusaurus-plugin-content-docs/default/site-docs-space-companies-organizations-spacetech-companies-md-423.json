@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/companies_organizations/spacetech_companies",
+  "id": "space/companies_organizations/spacetech_companies",
+  "isDocsHomePage": false,
+  "title": "Spacetech companies",
+  "description": "---",
+  "source": "@site/docs/space/companies_organizations/spacetech_companies.md",
+  "sourceDirName": "space/companies_organizations",
+  "slug": "/space/companies_organizations/spacetech_companies",
+  "permalink": "/spacetech_companies/docs/space/companies_organizations/spacetech_companies",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/companies_organizations/spacetech_companies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
+  },
+  "next": {
+    "title": "衛星データソリューション一覧",
+    "permalink": "/spacetech_companies/docs/space/companies_organizations/satellitedata_solutions"
+  }
+}

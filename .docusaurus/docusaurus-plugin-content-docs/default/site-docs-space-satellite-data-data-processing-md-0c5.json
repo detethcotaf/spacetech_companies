@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/satellite_data/data_processing",
+  "id": "space/satellite_data/data_processing",
+  "isDocsHomePage": false,
+  "title": "衛星データの処理・解析",
+  "description": "データ処理",
+  "source": "@site/docs/space/satellite_data/data_processing.md",
+  "sourceDirName": "space/satellite_data",
+  "slug": "/space/satellite_data/data_processing",
+  "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/data_processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
+  },
+  "next": {
+    "title": "Sentinel-2 × Open Access Hub",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/s2_oah"
+  }
+}

@@ -16,33 +16,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blockchain/flow_cadence",
+              "path": "/spacetech_companies/docs/blockchain/flow_cadence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blockchain/ipfs",
+              "path": "/spacetech_companies/docs/blockchain/ipfs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blockchain/nft_entry",
+              "path": "/spacetech_companies/docs/blockchain/nft_entry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "home",
               "path": "/spacetech_companies/docs/home",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "space/data_processing",
-              "path": "/spacetech_companies/docs/space/data_processing",
+              "id": "space/remote_sensing/remote_sensing_basic",
+              "path": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "space/nasa_earthdata",
-              "path": "/spacetech_companies/docs/space/nasa_earthdata",
+              "id": "space/satellite_data/data_processing",
+              "path": "/spacetech_companies/docs/space/satellite_data/data_processing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "space/remote_sensing_basic",
-              "path": "/spacetech_companies/docs/space/remote_sensing_basic",
+              "id": "space/satellite_data/s2_oah",
+              "path": "/spacetech_companies/docs/space/satellite_data/s2_oah",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "space/satellite_data_solutions",
-              "path": "/spacetech_companies/docs/space/satellite_data_solutions",
+              "id": "space/satellite_data/satellitedata_type",
+              "path": "/spacetech_companies/docs/space/satellite_data/satellitedata_type",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "space/spacetech_companies",
-              "path": "/spacetech_companies/docs/space/spacetech_companies",
+              "id": "space/solutions/nasa_earthdata",
+              "path": "/spacetech_companies/docs/space/solutions/nasa_earthdata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "space/solutions/satellitedata_solutions",
+              "path": "/spacetech_companies/docs/space/solutions/satellitedata_solutions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "space/solutions/spacetech_companies",
+              "path": "/spacetech_companies/docs/space/solutions/spacetech_companies",
               "sidebar": "tutorialSidebar"
             }
           ]

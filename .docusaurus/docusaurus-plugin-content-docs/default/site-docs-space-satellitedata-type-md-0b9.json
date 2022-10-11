@@ -1,0 +1,20 @@
+{
+  "unversionedId": "space/satellitedata_type",
+  "id": "space/satellitedata_type",
+  "isDocsHomePage": false,
+  "title": "衛星データ形式",
+  "description": "BackGround",
+  "source": "@site/docs/space/satellitedata_type.md",
+  "sourceDirName": "space",
+  "slug": "/space/satellitedata_type",
+  "permalink": "/spacetech_companies/docs/space/satellitedata_type",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellitedata_type.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データの処理・解析",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing"
+  }
+}

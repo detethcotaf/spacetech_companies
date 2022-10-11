@@ -1,0 +1,24 @@
+{
+  "unversionedId": "space/satellite_data/satellite_data触ってみた",
+  "id": "space/satellite_data/satellite_data触ってみた",
+  "isDocsHomePage": false,
+  "title": "TODO: ファイル名とタイトルはちゃんと考える",
+  "description": "- まずはメタデータを取得する",
+  "source": "@site/docs/space/satellite_data/satellite_data触ってみた.md",
+  "sourceDirName": "space/satellite_data",
+  "slug": "/space/satellite_data/satellite_data触ってみた",
+  "permalink": "/spacetech_companies/docs/space/satellite_data/satellite_data触ってみた",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/satellite_data触ってみた.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データの処理・解析",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing"
+  },
+  "next": {
+    "title": "衛星データ形式",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
+  }
+}

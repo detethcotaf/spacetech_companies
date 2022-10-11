@@ -21,6 +21,21 @@
             "type": "link",
             "label": "ブロックチェーンの基本を理解する",
             "href": "/spacetech_companies/docs/blockchain/blockchain_entry"
+          },
+          {
+            "type": "link",
+            "label": "Flow と cadence について",
+            "href": "/spacetech_companies/docs/blockchain/flow_cadence"
+          },
+          {
+            "type": "link",
+            "label": "IPFS について",
+            "href": "/spacetech_companies/docs/blockchain/ipfs"
+          },
+          {
+            "type": "link",
+            "label": "NFT の基本を理解する",
+            "href": "/spacetech_companies/docs/blockchain/nft_entry"
           }
         ],
         "collapsed": true,
@@ -31,29 +46,63 @@
         "label": "space",
         "items": [
           {
-            "type": "link",
-            "label": "Spacetech companies",
-            "href": "/spacetech_companies/docs/space/spacetech_companies"
+            "type": "category",
+            "label": "remote_sensing",
+            "items": [
+              {
+                "type": "link",
+                "label": "リモートセンシングの波長・センサ・座標",
+                "href": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
           },
           {
-            "type": "link",
-            "label": "NASA Earthdata",
-            "href": "/spacetech_companies/docs/space/nasa_earthdata"
+            "type": "category",
+            "label": "satellite_data",
+            "items": [
+              {
+                "type": "link",
+                "label": "衛星データの処理・解析",
+                "href": "/spacetech_companies/docs/space/satellite_data/data_processing"
+              },
+              {
+                "type": "link",
+                "label": "Sentinel-2 × Open Access Hub",
+                "href": "/spacetech_companies/docs/space/satellite_data/s2_oah"
+              },
+              {
+                "type": "link",
+                "label": "衛星データ形式",
+                "href": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
           },
           {
-            "type": "link",
-            "label": "衛星データソリューション一覧",
-            "href": "/spacetech_companies/docs/space/satellite_data_solutions"
-          },
-          {
-            "type": "link",
-            "label": "リモートセンシングの波長・センサ・座標",
-            "href": "/spacetech_companies/docs/space/remote_sensing_basic"
-          },
-          {
-            "type": "link",
-            "label": "衛星データの処理・解析",
-            "href": "/spacetech_companies/docs/space/data_processing"
+            "type": "category",
+            "label": "solutions",
+            "items": [
+              {
+                "type": "link",
+                "label": "Spacetech companies",
+                "href": "/spacetech_companies/docs/space/solutions/spacetech_companies"
+              },
+              {
+                "type": "link",
+                "label": "NASA Earthdata",
+                "href": "/spacetech_companies/docs/space/solutions/nasa_earthdata"
+              },
+              {
+                "type": "link",
+                "label": "衛星データソリューション一覧",
+                "href": "/spacetech_companies/docs/space/solutions/satellitedata_solutions"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
           }
         ],
         "collapsed": true,

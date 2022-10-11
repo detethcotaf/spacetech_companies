@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/solutions/spacetech_companies",
+  "id": "space/solutions/spacetech_companies",
+  "isDocsHomePage": false,
+  "title": "Spacetech companies",
+  "description": "---",
+  "source": "@site/docs/space/solutions/spacetech_companies.md",
+  "sourceDirName": "space/solutions",
+  "slug": "/space/solutions/spacetech_companies",
+  "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/solutions/spacetech_companies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データ形式",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
+  },
+  "next": {
+    "title": "NASA Earthdata",
+    "permalink": "/spacetech_companies/docs/space/solutions/nasa_earthdata"
+  }
+}

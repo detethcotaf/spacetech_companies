@@ -1,0 +1,24 @@
+{
+  "unversionedId": "space/satellite_data/satellitedata_type",
+  "id": "space/satellite_data/satellitedata_type",
+  "isDocsHomePage": false,
+  "title": "衛星データ形式",
+  "description": "衛星データの種類",
+  "source": "@site/docs/space/satellite_data/satellitedata_type.md",
+  "sourceDirName": "space/satellite_data",
+  "slug": "/space/satellite_data/satellitedata_type",
+  "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/satellitedata_type.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentinel-2 × Open Access Hub",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/s2_oah"
+  },
+  "next": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies"
+  }
+}

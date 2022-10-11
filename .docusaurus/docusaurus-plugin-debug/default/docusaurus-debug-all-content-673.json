@@ -31,6 +31,18 @@
                   {
                     "type": "doc",
                     "id": "blockchain/blockchain_entry"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "blockchain/flow_cadence"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "blockchain/ipfs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "blockchain/nft_entry"
                   }
                 ],
                 "collapsed": true,
@@ -41,24 +53,56 @@
                 "label": "space",
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "space/spacetech_companies"
+                    "type": "category",
+                    "label": "remote_sensing",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "space/remote_sensing/remote_sensing_basic"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
                   },
                   {
-                    "type": "doc",
-                    "id": "space/nasa_earthdata"
+                    "type": "category",
+                    "label": "satellite_data",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "space/satellite_data/data_processing"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "space/satellite_data/s2_oah"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "space/satellite_data/satellitedata_type"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
                   },
                   {
-                    "type": "doc",
-                    "id": "space/satellite_data_solutions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "space/remote_sensing_basic"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "space/data_processing"
+                    "type": "category",
+                    "label": "solutions",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "space/solutions/spacetech_companies"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "space/solutions/nasa_earthdata"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "space/solutions/satellitedata_solutions"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
                   }
                 ],
                 "collapsed": true,
@@ -80,18 +124,87 @@
               "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/blockchain_entry.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Home",
                 "permalink": "/spacetech_companies/docs/home"
               },
               "next": {
-                "title": "Spacetech companies",
-                "permalink": "/spacetech_companies/docs/space/spacetech_companies"
+                "title": "Flow と cadence について",
+                "permalink": "/spacetech_companies/docs/blockchain/flow_cadence"
+              }
+            },
+            {
+              "unversionedId": "blockchain/flow_cadence",
+              "id": "blockchain/flow_cadence",
+              "isDocsHomePage": false,
+              "title": "Flow と cadence について",
+              "description": "cadence のプレイグラウンド",
+              "source": "@site/docs/blockchain/flow_cadence.md",
+              "sourceDirName": "blockchain",
+              "slug": "/blockchain/flow_cadence",
+              "permalink": "/spacetech_companies/docs/blockchain/flow_cadence",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/flow_cadence.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ブロックチェーンの基本を理解する",
+                "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
+              },
+              "next": {
+                "title": "IPFS について",
+                "permalink": "/spacetech_companies/docs/blockchain/ipfs"
+              }
+            },
+            {
+              "unversionedId": "blockchain/ipfs",
+              "id": "blockchain/ipfs",
+              "isDocsHomePage": false,
+              "title": "IPFS について",
+              "description": "ファイルコインにデータが保管されている場合でも、NFT を読み込む時にそこからアクセスしている訳ではない。ファイルはファイルコイン上で「バックアップ」されているかもしれないが、ネットワークとのやり取りには手数料がかかり、読み込みのためにファイルを開封するには、何時間もかかるようだ。",
+              "source": "@site/docs/blockchain/ipfs.md",
+              "sourceDirName": "blockchain",
+              "slug": "/blockchain/ipfs",
+              "permalink": "/spacetech_companies/docs/blockchain/ipfs",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/ipfs.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flow と cadence について",
+                "permalink": "/spacetech_companies/docs/blockchain/flow_cadence"
+              },
+              "next": {
+                "title": "NFT の基本を理解する",
+                "permalink": "/spacetech_companies/docs/blockchain/nft_entry"
+              }
+            },
+            {
+              "unversionedId": "blockchain/nft_entry",
+              "id": "blockchain/nft_entry",
+              "isDocsHomePage": false,
+              "title": "NFT の基本を理解する",
+              "description": "例えば以下のような token を作る。key は url をハッシュ化した値。",
+              "source": "@site/docs/blockchain/nft_entry.md",
+              "sourceDirName": "blockchain",
+              "slug": "/blockchain/nft_entry",
+              "permalink": "/spacetech_companies/docs/blockchain/nft_entry",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/nft_entry.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "IPFS について",
+                "permalink": "/spacetech_companies/docs/blockchain/ipfs"
+              },
+              "next": {
+                "title": "リモートセンシングの波長・センサ・座標",
+                "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
               }
             },
             {
@@ -120,16 +233,43 @@
               }
             },
             {
-              "unversionedId": "space/data_processing",
-              "id": "space/data_processing",
+              "unversionedId": "space/remote_sensing/remote_sensing_basic",
+              "id": "space/remote_sensing/remote_sensing_basic",
+              "isDocsHomePage": false,
+              "title": "リモートセンシングの波長・センサ・座標",
+              "description": "波長",
+              "source": "@site/docs/space/remote_sensing/remote_sensing_basic.md",
+              "sourceDirName": "space/remote_sensing",
+              "slug": "/space/remote_sensing/remote_sensing_basic",
+              "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/remote_sensing/remote_sensing_basic.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NFT の基本を理解する",
+                "permalink": "/spacetech_companies/docs/blockchain/nft_entry"
+              },
+              "next": {
+                "title": "衛星データの処理・解析",
+                "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing"
+              }
+            },
+            {
+              "unversionedId": "space/satellite_data/data_processing",
+              "id": "space/satellite_data/data_processing",
               "isDocsHomePage": false,
               "title": "衛星データの処理・解析",
               "description": "データ処理",
-              "source": "@site/docs/space/data_processing.md",
-              "sourceDirName": "space",
-              "slug": "/space/data_processing",
-              "permalink": "/spacetech_companies/docs/space/data_processing",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/data_processing.md",
+              "source": "@site/docs/space/satellite_data/data_processing.md",
+              "sourceDirName": "space/satellite_data",
+              "slug": "/space/satellite_data/data_processing",
+              "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/data_processing.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -139,20 +279,72 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "リモートセンシングの波長・センサ・座標",
-                "permalink": "/spacetech_companies/docs/space/remote_sensing_basic"
+                "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
+              },
+              "next": {
+                "title": "Sentinel-2 × Open Access Hub",
+                "permalink": "/spacetech_companies/docs/space/satellite_data/s2_oah"
               }
             },
             {
-              "unversionedId": "space/nasa_earthdata",
-              "id": "space/nasa_earthdata",
+              "unversionedId": "space/satellite_data/s2_oah",
+              "id": "space/satellite_data/s2_oah",
+              "isDocsHomePage": false,
+              "title": "Sentinel-2 × Open Access Hub",
+              "description": "- まずはメタデータを取得する",
+              "source": "@site/docs/space/satellite_data/s2_oah.md",
+              "sourceDirName": "space/satellite_data",
+              "slug": "/space/satellite_data/s2_oah",
+              "permalink": "/spacetech_companies/docs/space/satellite_data/s2_oah",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/s2_oah.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "衛星データの処理・解析",
+                "permalink": "/spacetech_companies/docs/space/satellite_data/data_processing"
+              },
+              "next": {
+                "title": "衛星データ形式",
+                "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
+              }
+            },
+            {
+              "unversionedId": "space/satellite_data/satellitedata_type",
+              "id": "space/satellite_data/satellitedata_type",
+              "isDocsHomePage": false,
+              "title": "衛星データ形式",
+              "description": "衛星データの種類",
+              "source": "@site/docs/space/satellite_data/satellitedata_type.md",
+              "sourceDirName": "space/satellite_data",
+              "slug": "/space/satellite_data/satellitedata_type",
+              "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/satellitedata_type.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sentinel-2 × Open Access Hub",
+                "permalink": "/spacetech_companies/docs/space/satellite_data/s2_oah"
+              },
+              "next": {
+                "title": "Spacetech companies",
+                "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies"
+              }
+            },
+            {
+              "unversionedId": "space/solutions/nasa_earthdata",
+              "id": "space/solutions/nasa_earthdata",
               "isDocsHomePage": false,
               "title": "NASA Earthdata",
               "description": "公式ページ",
-              "source": "@site/docs/space/nasa_earthdata.md",
-              "sourceDirName": "space",
-              "slug": "/space/nasa_earthdata",
-              "permalink": "/spacetech_companies/docs/space/nasa_earthdata",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/nasa_earthdata.md",
+              "source": "@site/docs/space/solutions/nasa_earthdata.md",
+              "sourceDirName": "space/solutions",
+              "slug": "/space/solutions/nasa_earthdata",
+              "permalink": "/spacetech_companies/docs/space/solutions/nasa_earthdata",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/solutions/nasa_earthdata.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -162,51 +354,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Spacetech companies",
-                "permalink": "/spacetech_companies/docs/space/spacetech_companies"
+                "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies"
               },
               "next": {
                 "title": "衛星データソリューション一覧",
-                "permalink": "/spacetech_companies/docs/space/satellite_data_solutions"
+                "permalink": "/spacetech_companies/docs/space/solutions/satellitedata_solutions"
               }
             },
             {
-              "unversionedId": "space/remote_sensing_basic",
-              "id": "space/remote_sensing_basic",
-              "isDocsHomePage": false,
-              "title": "リモートセンシングの波長・センサ・座標",
-              "description": "波長",
-              "source": "@site/docs/space/remote_sensing_basic.md",
-              "sourceDirName": "space",
-              "slug": "/space/remote_sensing_basic",
-              "permalink": "/spacetech_companies/docs/space/remote_sensing_basic",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/remote_sensing_basic.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "衛星データソリューション一覧",
-                "permalink": "/spacetech_companies/docs/space/satellite_data_solutions"
-              },
-              "next": {
-                "title": "衛星データの処理・解析",
-                "permalink": "/spacetech_companies/docs/space/data_processing"
-              }
-            },
-            {
-              "unversionedId": "space/satellite_data_solutions",
-              "id": "space/satellite_data_solutions",
+              "unversionedId": "space/solutions/satellitedata_solutions",
+              "id": "space/solutions/satellitedata_solutions",
               "isDocsHomePage": false,
               "title": "衛星データソリューション一覧",
               "description": "衛星データソリューション事例",
-              "source": "@site/docs/space/satellite_data_solutions.md",
-              "sourceDirName": "space",
-              "slug": "/space/satellite_data_solutions",
-              "permalink": "/spacetech_companies/docs/space/satellite_data_solutions",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data_solutions.md",
+              "source": "@site/docs/space/solutions/satellitedata_solutions.md",
+              "sourceDirName": "space/solutions",
+              "slug": "/space/solutions/satellitedata_solutions",
+              "permalink": "/spacetech_companies/docs/space/solutions/satellitedata_solutions",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/solutions/satellitedata_solutions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -216,24 +381,20 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NASA Earthdata",
-                "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
-              },
-              "next": {
-                "title": "リモートセンシングの波長・センサ・座標",
-                "permalink": "/spacetech_companies/docs/space/remote_sensing_basic"
+                "permalink": "/spacetech_companies/docs/space/solutions/nasa_earthdata"
               }
             },
             {
-              "unversionedId": "space/spacetech_companies",
-              "id": "space/spacetech_companies",
+              "unversionedId": "space/solutions/spacetech_companies",
+              "id": "space/solutions/spacetech_companies",
               "isDocsHomePage": false,
               "title": "Spacetech companies",
               "description": "---",
-              "source": "@site/docs/space/spacetech_companies.md",
-              "sourceDirName": "space",
-              "slug": "/space/spacetech_companies",
-              "permalink": "/spacetech_companies/docs/space/spacetech_companies",
-              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/spacetech_companies.md",
+              "source": "@site/docs/space/solutions/spacetech_companies.md",
+              "sourceDirName": "space/solutions",
+              "slug": "/space/solutions/spacetech_companies",
+              "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies",
+              "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/solutions/spacetech_companies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -242,12 +403,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ブロックチェーンの基本を理解する",
-                "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
+                "title": "衛星データ形式",
+                "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
               },
               "next": {
                 "title": "NASA Earthdata",
-                "permalink": "/spacetech_companies/docs/space/nasa_earthdata"
+                "permalink": "/spacetech_companies/docs/space/solutions/nasa_earthdata"
               }
             }
           ]

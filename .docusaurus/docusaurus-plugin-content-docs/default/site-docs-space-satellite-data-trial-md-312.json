@@ -1,0 +1,24 @@
+{
+  "unversionedId": "space/satellite_data/trial",
+  "id": "space/satellite_data/trial",
+  "isDocsHomePage": false,
+  "title": "Sentinel-2 × Open Access Hub",
+  "description": "- まずはメタデータを取得する",
+  "source": "@site/docs/space/satellite_data/trial.md",
+  "sourceDirName": "space/satellite_data",
+  "slug": "/space/satellite_data/trial",
+  "permalink": "/spacetech_companies/docs/space/satellite_data/trial",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/satellite_data/trial.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "衛星データ形式",
+    "permalink": "/spacetech_companies/docs/space/satellite_data/satellitedata_type"
+  },
+  "next": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies"
+  }
+}

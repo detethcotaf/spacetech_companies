@@ -1,0 +1,24 @@
+{
+  "unversionedId": "blockchain/flow_cadence",
+  "id": "blockchain/flow_cadence",
+  "isDocsHomePage": false,
+  "title": "Flow と cadence について",
+  "description": "cadence のプレイグラウンド",
+  "source": "@site/docs/blockchain/flow_cadence.md",
+  "sourceDirName": "blockchain",
+  "slug": "/blockchain/flow_cadence",
+  "permalink": "/spacetech_companies/docs/blockchain/flow_cadence",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/flow_cadence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ブロックチェーンの基本を理解する",
+    "permalink": "/spacetech_companies/docs/blockchain/blockchain_entry"
+  },
+  "next": {
+    "title": "IPFS について",
+    "permalink": "/spacetech_companies/docs/blockchain/ipfs"
+  }
+}

@@ -85,11 +85,29 @@ export default [
   },
   {
     path: '/spacetech_companies/docs',
-    component: ComponentCreator('/spacetech_companies/docs','7c2'),
+    component: ComponentCreator('/spacetech_companies/docs','60c'),
     routes: [
       {
         path: '/spacetech_companies/docs/blockchain/blockchain_entry',
         component: ComponentCreator('/spacetech_companies/docs/blockchain/blockchain_entry','145'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/blockchain/flow_cadence',
+        component: ComponentCreator('/spacetech_companies/docs/blockchain/flow_cadence','2db'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/blockchain/ipfs',
+        component: ComponentCreator('/spacetech_companies/docs/blockchain/ipfs','ec0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/blockchain/nft_entry',
+        component: ComponentCreator('/spacetech_companies/docs/blockchain/nft_entry','a63'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -100,32 +118,44 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/space/data_processing',
-        component: ComponentCreator('/spacetech_companies/docs/space/data_processing','7fb'),
+        path: '/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic',
+        component: ComponentCreator('/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic','0e2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/space/nasa_earthdata',
-        component: ComponentCreator('/spacetech_companies/docs/space/nasa_earthdata','e2a'),
+        path: '/spacetech_companies/docs/space/satellite_data/data_processing',
+        component: ComponentCreator('/spacetech_companies/docs/space/satellite_data/data_processing','f91'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/space/remote_sensing_basic',
-        component: ComponentCreator('/spacetech_companies/docs/space/remote_sensing_basic','122'),
+        path: '/spacetech_companies/docs/space/satellite_data/s2_oah',
+        component: ComponentCreator('/spacetech_companies/docs/space/satellite_data/s2_oah','90f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/space/satellite_data_solutions',
-        component: ComponentCreator('/spacetech_companies/docs/space/satellite_data_solutions','fd6'),
+        path: '/spacetech_companies/docs/space/satellite_data/satellitedata_type',
+        component: ComponentCreator('/spacetech_companies/docs/space/satellite_data/satellitedata_type','02c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/spacetech_companies/docs/space/spacetech_companies',
-        component: ComponentCreator('/spacetech_companies/docs/space/spacetech_companies','1b4'),
+        path: '/spacetech_companies/docs/space/solutions/nasa_earthdata',
+        component: ComponentCreator('/spacetech_companies/docs/space/solutions/nasa_earthdata','d2a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/space/solutions/satellitedata_solutions',
+        component: ComponentCreator('/spacetech_companies/docs/space/solutions/satellitedata_solutions','b44'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/space/solutions/spacetech_companies',
+        component: ComponentCreator('/spacetech_companies/docs/space/solutions/spacetech_companies','3ea'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

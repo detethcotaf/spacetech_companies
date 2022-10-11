@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/solutions/nasa_earthdata",
+  "id": "space/solutions/nasa_earthdata",
+  "isDocsHomePage": false,
+  "title": "NASA Earthdata",
+  "description": "公式ページ",
+  "source": "@site/docs/space/solutions/nasa_earthdata.md",
+  "sourceDirName": "space/solutions",
+  "slug": "/space/solutions/nasa_earthdata",
+  "permalink": "/spacetech_companies/docs/space/solutions/nasa_earthdata",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/solutions/nasa_earthdata.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/space/solutions/spacetech_companies"
+  },
+  "next": {
+    "title": "衛星データソリューション一覧",
+    "permalink": "/spacetech_companies/docs/space/solutions/satellitedata_solutions"
+  }
+}

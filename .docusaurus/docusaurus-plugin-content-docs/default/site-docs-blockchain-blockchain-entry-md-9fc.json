@@ -11,17 +11,14 @@
   "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/blockchain_entry.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Home",
     "permalink": "/spacetech_companies/docs/home"
   },
   "next": {
-    "title": "Spacetech companies",
-    "permalink": "/spacetech_companies/docs/space/spacetech_companies"
+    "title": "Flow と cadence について",
+    "permalink": "/spacetech_companies/docs/blockchain/flow_cadence"
   }
 }

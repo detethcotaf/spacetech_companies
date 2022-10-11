@@ -1,0 +1,24 @@
+{
+  "unversionedId": "blockchain/ipfs",
+  "id": "blockchain/ipfs",
+  "isDocsHomePage": false,
+  "title": "IPFS について",
+  "description": "ファイルコインにデータが保管されている場合でも、NFT を読み込む時にそこからアクセスしている訳ではない。ファイルはファイルコイン上で「バックアップ」されているかもしれないが、ネットワークとのやり取りには手数料がかかり、読み込みのためにファイルを開封するには、何時間もかかるようだ。",
+  "source": "@site/docs/blockchain/ipfs.md",
+  "sourceDirName": "blockchain",
+  "slug": "/blockchain/ipfs",
+  "permalink": "/spacetech_companies/docs/blockchain/ipfs",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/ipfs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flow と cadence について",
+    "permalink": "/spacetech_companies/docs/blockchain/flow_cadence"
+  },
+  "next": {
+    "title": "NFT の基本を理解する",
+    "permalink": "/spacetech_companies/docs/blockchain/nft_entry"
+  }
+}

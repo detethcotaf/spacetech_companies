@@ -1,0 +1,27 @@
+{
+  "unversionedId": "space/companies_organizations/satellitedata_solutions",
+  "id": "space/companies_organizations/satellitedata_solutions",
+  "isDocsHomePage": false,
+  "title": "衛星データソリューション一覧",
+  "description": "衛星データソリューション事例",
+  "source": "@site/docs/space/companies_organizations/satellitedata_solutions.md",
+  "sourceDirName": "space/companies_organizations",
+  "slug": "/space/companies_organizations/satellitedata_solutions",
+  "permalink": "/spacetech_companies/docs/space/companies_organizations/satellitedata_solutions",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/space/companies_organizations/satellitedata_solutions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spacetech companies",
+    "permalink": "/spacetech_companies/docs/space/companies_organizations/spacetech_companies"
+  },
+  "next": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
+  }
+}

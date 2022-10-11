@@ -1,0 +1,24 @@
+{
+  "unversionedId": "blockchain/nft_entry",
+  "id": "blockchain/nft_entry",
+  "isDocsHomePage": false,
+  "title": "NFT の基本を理解する",
+  "description": "例えば以下のような token を作る。key は url をハッシュ化した値。",
+  "source": "@site/docs/blockchain/nft_entry.md",
+  "sourceDirName": "blockchain",
+  "slug": "/blockchain/nft_entry",
+  "permalink": "/spacetech_companies/docs/blockchain/nft_entry",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/blockchain/nft_entry.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IPFS について",
+    "permalink": "/spacetech_companies/docs/blockchain/ipfs"
+  },
+  "next": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
+  }
+}
