@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cadence/ft",
+  "id": "cadence/ft",
+  "isDocsHomePage": false,
+  "title": "Fungible Token の実装",
+  "description": "Flow における FT",
+  "source": "@site/docs/cadence/05_ft.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/ft",
+  "permalink": "/spacetech_companies/docs/cadence/ft",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/05_ft.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Non Fungible Token の実装",
+    "permalink": "/spacetech_companies/docs/cadence/nft"
+  },
+  "next": {
+    "title": "MarketPlace のコントラクト",
+    "permalink": "/spacetech_companies/docs/cadence/marketplace"
+  }
+}

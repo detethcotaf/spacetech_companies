@@ -85,17 +85,11 @@ export default [
   },
   {
     path: '/spacetech_companies/docs',
-    component: ComponentCreator('/spacetech_companies/docs','60c'),
+    component: ComponentCreator('/spacetech_companies/docs','43f'),
     routes: [
       {
         path: '/spacetech_companies/docs/blockchain/blockchain_entry',
         component: ComponentCreator('/spacetech_companies/docs/blockchain/blockchain_entry','145'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/spacetech_companies/docs/blockchain/flow_cadence',
-        component: ComponentCreator('/spacetech_companies/docs/blockchain/flow_cadence','2db'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -108,6 +102,42 @@ export default [
       {
         path: '/spacetech_companies/docs/blockchain/nft_entry',
         component: ComponentCreator('/spacetech_companies/docs/blockchain/nft_entry','a63'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/cadence/capability',
+        component: ComponentCreator('/spacetech_companies/docs/cadence/capability','e0f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/cadence/ft',
+        component: ComponentCreator('/spacetech_companies/docs/cadence/ft','963'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/cadence/marketplace',
+        component: ComponentCreator('/spacetech_companies/docs/cadence/marketplace','378'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/cadence/nft',
+        component: ComponentCreator('/spacetech_companies/docs/cadence/nft','a1f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/cadence/overview',
+        component: ComponentCreator('/spacetech_companies/docs/cadence/overview','25a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/spacetech_companies/docs/cadence/resource',
+        component: ComponentCreator('/spacetech_companies/docs/cadence/resource','417'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

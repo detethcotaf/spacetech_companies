@@ -77,17 +77,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---spacetech-companies-markdown-page-393-4ce"
   },
-  "/spacetech_companies/docs-60c": {
+  "/spacetech_companies/docs-43f": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---spacetech-companies-docs-935-999"
   },
   "/spacetech_companies/docs/blockchain/blockchain_entry-145": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---spacetech-companies-docs-blockchain-blockchain-entry-9-fc-30b"
-  },
-  "/spacetech_companies/docs/blockchain/flow_cadence-2db": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---spacetech-companies-docs-blockchain-flow-cadencedff-4ac"
   },
   "/spacetech_companies/docs/blockchain/ipfs-ec0": {
     "component": "component---theme-doc-item-178-a40",
@@ -96,6 +92,30 @@
   "/spacetech_companies/docs/blockchain/nft_entry-a63": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---spacetech-companies-docs-blockchain-nft-entry-687-c28"
+  },
+  "/spacetech_companies/docs/cadence/capability-e0f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-cadence-capability-610-679"
+  },
+  "/spacetech_companies/docs/cadence/ft-963": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-cadence-ft-4-a-9-647"
+  },
+  "/spacetech_companies/docs/cadence/marketplace-378": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-cadence-marketplace-144-db6"
+  },
+  "/spacetech_companies/docs/cadence/nft-a1f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-cadence-nft-29-d-0f1"
+  },
+  "/spacetech_companies/docs/cadence/overview-25a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-cadence-overview-2-a-2-c10"
+  },
+  "/spacetech_companies/docs/cadence/resource-417": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---spacetech-companies-docs-cadence-resourcee-2-f-33b"
   },
   "/spacetech_companies/docs/home-50c": {
     "component": "component---theme-doc-item-178-a40",

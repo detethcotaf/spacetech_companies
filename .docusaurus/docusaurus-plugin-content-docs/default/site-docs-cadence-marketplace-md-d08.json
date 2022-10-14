@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cadence/marketplace",
+  "id": "cadence/marketplace",
+  "isDocsHomePage": false,
+  "title": "MarketPlace のコントラクト",
+  "description": "- マーケットプレイスとは、コントラクトを使ってユーザー同士が NFT を FT で売買する場のこと",
+  "source": "@site/docs/cadence/marketplace.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/marketplace",
+  "permalink": "/spacetech_companies/docs/cadence/marketplace",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/marketplace.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nft",
+    "permalink": "/spacetech_companies/docs/cadence/nft"
+  },
+  "next": {
+    "title": "リモートセンシングの波長・センサ・座標",
+    "permalink": "/spacetech_companies/docs/space/remote_sensing/remote_sensing_basic"
+  }
+}

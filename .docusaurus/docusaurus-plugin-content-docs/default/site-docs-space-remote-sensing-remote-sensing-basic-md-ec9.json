@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NFT の基本を理解する",
-    "permalink": "/spacetech_companies/docs/blockchain/nft_entry"
+    "title": "MarketPlace のコントラクト",
+    "permalink": "/spacetech_companies/docs/cadence/marketplace"
   },
   "next": {
     "title": "衛星データの処理・解析",

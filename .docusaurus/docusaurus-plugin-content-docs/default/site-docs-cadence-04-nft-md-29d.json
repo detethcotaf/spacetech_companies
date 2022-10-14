@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cadence/nft",
+  "id": "cadence/nft",
+  "isDocsHomePage": false,
+  "title": "Non Fungible Token の実装",
+  "description": "概要",
+  "source": "@site/docs/cadence/04_nft.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/nft",
+  "permalink": "/spacetech_companies/docs/cadence/nft",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/04_nft.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "capability",
+    "permalink": "/spacetech_companies/docs/cadence/capability"
+  },
+  "next": {
+    "title": "Fungible Token の実装",
+    "permalink": "/spacetech_companies/docs/cadence/ft"
+  }
+}

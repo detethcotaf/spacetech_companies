@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cadence/capability",
+  "id": "cadence/capability",
+  "isDocsHomePage": false,
+  "title": "capability",
+  "description": "Capability の使い方",
+  "source": "@site/docs/cadence/capability.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/capability",
+  "permalink": "/spacetech_companies/docs/cadence/capability",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/capability.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "リソースオブジェクトの実装",
+    "permalink": "/spacetech_companies/docs/cadence/resource"
+  },
+  "next": {
+    "title": "MarketPlace のコントラクト",
+    "permalink": "/spacetech_companies/docs/cadence/marketplace"
+  }
+}

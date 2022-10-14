@@ -24,11 +24,6 @@
           },
           {
             "type": "link",
-            "label": "Flow と cadence について",
-            "href": "/spacetech_companies/docs/blockchain/flow_cadence"
-          },
-          {
-            "type": "link",
             "label": "IPFS について",
             "href": "/spacetech_companies/docs/blockchain/ipfs"
           },
@@ -36,6 +31,44 @@
             "type": "link",
             "label": "NFT の基本を理解する",
             "href": "/spacetech_companies/docs/blockchain/nft_entry"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "cadence",
+        "items": [
+          {
+            "type": "link",
+            "label": "01.Flow と Cadence",
+            "href": "/spacetech_companies/docs/cadence/overview"
+          },
+          {
+            "type": "link",
+            "label": "リソースオブジェクトの実装",
+            "href": "/spacetech_companies/docs/cadence/resource"
+          },
+          {
+            "type": "link",
+            "label": "capability",
+            "href": "/spacetech_companies/docs/cadence/capability"
+          },
+          {
+            "type": "link",
+            "label": "Non Fungible Token の実装",
+            "href": "/spacetech_companies/docs/cadence/nft"
+          },
+          {
+            "type": "link",
+            "label": "Fungible Token の実装",
+            "href": "/spacetech_companies/docs/cadence/ft"
+          },
+          {
+            "type": "link",
+            "label": "MarketPlace のコントラクト",
+            "href": "/spacetech_companies/docs/cadence/marketplace"
           }
         ],
         "collapsed": true,

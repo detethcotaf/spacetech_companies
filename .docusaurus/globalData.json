@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "blockchain/flow_cadence",
-              "path": "/spacetech_companies/docs/blockchain/flow_cadence",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "blockchain/ipfs",
               "path": "/spacetech_companies/docs/blockchain/ipfs",
               "sidebar": "tutorialSidebar"
@@ -28,6 +23,36 @@
             {
               "id": "blockchain/nft_entry",
               "path": "/spacetech_companies/docs/blockchain/nft_entry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cadence/capability",
+              "path": "/spacetech_companies/docs/cadence/capability",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cadence/ft",
+              "path": "/spacetech_companies/docs/cadence/ft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cadence/marketplace",
+              "path": "/spacetech_companies/docs/cadence/marketplace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cadence/nft",
+              "path": "/spacetech_companies/docs/cadence/nft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cadence/overview",
+              "path": "/spacetech_companies/docs/cadence/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cadence/resource",
+              "path": "/spacetech_companies/docs/cadence/resource",
               "sidebar": "tutorialSidebar"
             },
             {

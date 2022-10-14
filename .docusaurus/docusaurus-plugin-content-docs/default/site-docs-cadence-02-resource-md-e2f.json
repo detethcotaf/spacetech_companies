@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cadence/resource",
+  "id": "cadence/resource",
+  "isDocsHomePage": false,
+  "title": "リソースオブジェクトの実装",
+  "description": "※ リソースの概要は 01.Flow と Cadence に記載している",
+  "source": "@site/docs/cadence/02_resource.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/resource",
+  "permalink": "/spacetech_companies/docs/cadence/resource",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/02_resource.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01.Flow と Cadence",
+    "permalink": "/spacetech_companies/docs/cadence/overview"
+  },
+  "next": {
+    "title": "capability",
+    "permalink": "/spacetech_companies/docs/cadence/capability"
+  }
+}

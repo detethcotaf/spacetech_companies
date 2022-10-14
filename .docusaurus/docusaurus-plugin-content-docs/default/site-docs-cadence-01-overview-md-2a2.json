@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cadence/overview",
+  "id": "cadence/overview",
+  "isDocsHomePage": false,
+  "title": "01.Flow と Cadence",
+  "description": "- ブロックチェーンの専門家ではなく、一般人に向けて開発されている",
+  "source": "@site/docs/cadence/01_overview.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/overview",
+  "permalink": "/spacetech_companies/docs/cadence/overview",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/01_overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFT の基本を理解する",
+    "permalink": "/spacetech_companies/docs/blockchain/nft_entry"
+  },
+  "next": {
+    "title": "リソースオブジェクトの実装",
+    "permalink": "/spacetech_companies/docs/cadence/resource"
+  }
+}

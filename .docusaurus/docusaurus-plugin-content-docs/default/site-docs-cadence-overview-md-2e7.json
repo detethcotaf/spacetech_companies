@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cadence/overview",
+  "id": "cadence/overview",
+  "isDocsHomePage": false,
+  "title": "01.Flow と Cadence",
+  "description": "cadence のプレイグラウンド",
+  "source": "@site/docs/cadence/overview.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/overview",
+  "permalink": "/spacetech_companies/docs/cadence/overview",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nft",
+    "permalink": "/spacetech_companies/docs/cadence/nft"
+  },
+  "next": {
+    "title": "リソースオブジェクトの実装",
+    "permalink": "/spacetech_companies/docs/cadence/resource"
+  }
+}

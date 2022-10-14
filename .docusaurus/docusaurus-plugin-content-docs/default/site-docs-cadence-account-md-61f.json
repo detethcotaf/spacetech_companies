@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cadence/Account",
+  "id": "cadence/Account",
+  "isDocsHomePage": false,
+  "title": "Account",
+  "description": "",
+  "source": "@site/docs/cadence/Account.md",
+  "sourceDirName": "cadence",
+  "slug": "/cadence/Account",
+  "permalink": "/spacetech_companies/docs/cadence/Account",
+  "editUrl": "https://github.com/detethcotaf/spacetech_companies/tree/main/docs/cadence/Account.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFT の基本を理解する",
+    "permalink": "/spacetech_companies/docs/blockchain/nft_entry"
+  },
+  "next": {
+    "title": "Flow と cadence について",
+    "permalink": "/spacetech_companies/docs/cadence/overview"
+  }
+}
